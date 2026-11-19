@@ -1,0 +1,19 @@
+target,model,n_feat,train_MAE,CV_MAE,test_MAE,test_R2,features
+ΔG*N2,KRR,16,0.068,0.18,0.15,0.732,base (no adsorbate DFT)
+ΔG*N2,RFR,16,0.07,0.192,0.186,0.647,base (no adsorbate DFT)
+ΔG*N2,GBR,16,0.081,0.183,0.167,0.686,base (no adsorbate DFT)
+ΔG*N2,XGBR,16,0.028,0.183,0.163,0.66,base (no adsorbate DFT)
+ΔG*N2,KRR,17,0.122,0.166,0.154,0.74,base + N≡N
+ΔG*N2,XGBR,17,0.016,0.17,0.175,0.654,base + N≡N
+ΔG*N2-N2H,KRR,16,0.085,0.205,0.189,0.595,base (no adsorbate DFT)
+ΔG*N2-N2H,RFR,16,0.076,0.21,0.217,0.486,base (no adsorbate DFT)
+ΔG*N2-N2H,GBR,16,0.12,0.213,0.223,0.47,base (no adsorbate DFT)
+ΔG*N2-N2H,XGBR,16,0.064,0.214,0.199,0.533,base (no adsorbate DFT)
+ΔG*N2-N2H,KRR,17,0.054,0.186,0.188,0.599,base + N≡N
+ΔG*N2-N2H,XGBR,17,0.12,0.183,0.209,0.493,base + N≡N
+ΔG*NH2-NH3,KRR,16,0.056,0.206,0.203,0.818,base (no adsorbate DFT)
+ΔG*NH2-NH3,RFR,16,0.098,0.259,0.242,0.745,base (no adsorbate DFT)
+ΔG*NH2-NH3,GBR,16,0.031,0.236,0.215,0.768,base (no adsorbate DFT)
+ΔG*NH2-NH3,XGBR,16,0.038,0.238,0.211,0.806,base (no adsorbate DFT)
+ΔG*NH2-NH3,KRR,17,0.044,0.186,0.188,0.862,base + N≡N
+ΔG*NH2-NH3,XGBR,17,0.038,0.207,0.194,0.853,base + N≡N

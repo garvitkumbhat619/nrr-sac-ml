@@ -1,0 +1,14 @@
+target,model,n_feat,train_MAE,CV_MAE,test_MAE,test_R2,features
+UL,KRR,16,0.138,0.214,0.225,0.284,all base (16)
+UL,RFR,16,0.073,0.217,0.239,0.233,all base (16)
+UL,GBR,16,0.092,0.216,0.273,0.022,all base (16)
+UL,XGBR,16,0.059,0.215,0.25,0.088,all base (16)
+UL,KRR,5,0.184,0.207,0.23,0.294,minimal P1 (5)
+UL,RFR,5,0.166,0.208,0.236,0.237,minimal P1 (5)
+UL,GBR,5,0.158,0.209,0.252,0.159,minimal P1 (5)
+UL,XGBR,5,0.156,0.211,0.253,0.148,minimal P1 (5)
+UL,KRR,6,0.119,0.154,0.177,0.618,minimal P2 (6)
+UL,RFR,6,0.058,0.161,0.171,0.601,minimal P2 (6)
+UL,GBR,6,0.079,0.176,0.169,0.626,minimal P2 (6)
+UL,XGBR,6,0.058,0.171,0.169,0.589,minimal P2 (6)
+UL,from predicted ΔG,16,,,0.203,0.461,"base, via ΔG models"

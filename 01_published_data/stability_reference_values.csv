@@ -1,0 +1,29 @@
+Metal,Ecoh_eV,Ecoh_source,U0_diss_V,n_e,couple,U0_source,Ecoh_PBE_eV
+Sc,3.93,"arXiv:1807.00350 Table III (expt, finite-T corrected)",-2.077,3,Sc3+/Sc,Wikipedia SEP data page (CRC 87th ed.),
+Ti,4.88,"arXiv:1807.00350 Table III (expt, finite-T corrected)",-1.63,2,Ti2+/Ti,CRC 84th ed. via Saylor Appendix E,5.66
+V,5.34,"arXiv:1807.00350 Table III (expt, finite-T corrected)",-1.13,2,V2+/V,Wikipedia SEP data page (CRC 87th ed.),5.49
+Cr,4.15,"arXiv:1807.00350 Table III (expt, finite-T corrected)",-0.913,2,Cr2+/Cr,CRC 84th ed. via Saylor Appendix E,4.06
+Mn,2.92,J. Mater. Chem. A ESI d1ta09015a Table S5,-1.185,2,Mn2+/Mn,Wikipedia SEP data page (CRC 87th ed.),
+Fe,4.32,"arXiv:1807.00350 Table III (expt, finite-T corrected)",-0.447,2,Fe2+/Fe,CRC 84th ed. via Saylor Appendix E,5.1
+Co,4.47,"arXiv:1807.00350 Table III (expt, finite-T corrected)",-0.28,2,Co2+/Co,Wikipedia SEP data page (CRC 87th ed.),5.57
+Ni,4.48,"arXiv:1807.00350 Table III (expt, finite-T corrected)",-0.257,2,Ni2+/Ni,Wikipedia SEP data page (CRC 87th ed.),5.13
+Cu,3.51,"arXiv:1807.00350 Table III (expt, finite-T corrected)",0.3419,2,Cu2+/Cu,CRC 84th ed. via Saylor Appendix E,4.5
+Zn,1.38,"arXiv:1807.00350 Table III (expt, finite-T corrected)",-0.7618,2,Zn2+/Zn,Wikipedia SEP data page (CRC 87th ed.),
+Y,4.42,"arXiv:1807.00350 Table III (expt, finite-T corrected)",-2.372,3,Y3+/Y,Wikipedia SEP data page (CRC 87th ed.),4.34
+Zr,6.32,"arXiv:1807.00350 Table III (expt, finite-T corrected)",-1.45,4,Zr4+/Zr,CRC 84th ed. via Saylor Appendix E,6.51
+Nb,7.47,"arXiv:1807.00350 Table III (expt, finite-T corrected)",-1.099,3,Nb3+/Nb,CRC 84th ed. via Saylor Appendix E,6.98
+Mo,6.84,"arXiv:1807.00350 Table III (expt, finite-T corrected)",-0.2,3,Mo3+/Mo,CRC 84th ed. via Saylor Appendix E,6.31
+Ru,6.8,"arXiv:1807.00350 Table III (expt, finite-T corrected)",0.455,2,Ru2+/Ru,Wikipedia SEP data page (CRC 87th ed.),7.22
+Rh,5.76,"arXiv:1807.00350 Table III (expt, finite-T corrected)",0.758,3,Rh3+/Rh,CRC 84th ed. via Saylor Appendix E,
+Pd,3.93,"arXiv:1807.00350 Table III (expt, finite-T corrected)",0.951,2,Pd2+/Pd,CRC 84th ed. via Saylor Appendix E,3.89
+Ag,2.96,"arXiv:1807.00350 Table III (expt, finite-T corrected)",0.7996,1,Ag+/Ag,Wikipedia SEP data page (CRC 87th ed.),2.52
+Cd,1.18,"arXiv:1807.00350 Table III (expt, finite-T corrected)",-0.403,2,Cd2+/Cd,CRC 84th ed. via Saylor Appendix E,
+Hf,6.44,"arXiv:1807.00350 Table III (expt, finite-T corrected)",-1.55,4,Hf4+/Hf,CRC 84th ed. via Saylor Appendix E,6.75
+Ta,8.11,arXiv:2309.12554 Table II (expt),-0.6,3,Ta3+/Ta,CRC 84th ed. via Saylor Appendix E,8.12
+W,8.83,arXiv:2309.12554 Table II (expt),-0.12,4,WO2/W (oxide couple; no W^n+/W listed),Wikipedia SEP data page (CRC 87th ed.),8.32
+Re,8.06,arXiv:2309.12554 Table II (expt),0.3,3,Re3+/Re,CRC 84th ed. via Saylor Appendix E,7.87
+Os,8.22,arXiv:2309.12554 Table II (expt),0.838,8,OsO4/Os (oxide couple; no Os^n+/Os listed),CRC 84th ed. via Saylor Appendix E,8.47
+Ir,6.96,arXiv:2309.12554 Table II (expt),1.156,3,Ir3+/Ir,CRC 84th ed. via Saylor Appendix E,7.65
+Pt,5.87,arXiv:2309.12554 Table II (expt),1.18,2,Pt2+/Pt,CRC 84th ed. via Saylor Appendix E,5.67
+Au,3.83,arXiv:2309.12554 Table II (expt),1.498,3,Au3+/Au,CRC 84th ed. via Saylor Appendix E,3.03
+Hg,,not found,0.851,2,Hg2+/Hg,CRC 84th ed. via Saylor Appendix E,
