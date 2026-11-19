@@ -1,0 +1,477 @@
+SAC,Metal,Support,family,vacancy,CN,n_N,n_S,n_C,status_bare,Ef_cal,U_diss_cal,stability,step1_UMA_raw,step1_ml,dEN2_UMA_raw,dEN2_ml,dGH_UMA_raw,dGH_ml,UL_NRR,path,PDS,UL_HER,final_confident,final_possible
+Ag@N4,Ag,N4,S/N (Xu),double,4,4,0,0,ok,0.2726,0.5274,uncertain,1.7093,,-0.2046,,0.8406,-0.7267,,,,-0.7267,False,False
+Ag@S1N3,Ag,S1N3,S/N (Xu),double,4,3,1,0,ok,0.8942,-0.0942,unstable,2.1256,1.2046,-0.5924,0.095,0.4715,,,,,,False,False
+Ag@S2N2-HEX,Ag,S2N2-HEX,S/N (Xu),double,4,2,2,0,ok,0.995,-0.195,unstable,1.5238,,-0.0209,,1.0708,,,,,,False,False
+Ag@S2N2-OPP,Ag,S2N2-OPP,S/N (Xu),double,4,2,2,0,ok,1.3392,-0.5392,unstable,1.043,,0.1699,,0.1547,,,,,,False,False
+Ag@S2N2-PEN,Ag,S2N2-PEN,S/N (Xu),double,4,2,2,0,ok,1.2115,-0.4115,unstable,2.0513,1.2714,-0.5021,0.14,0.4449,,,,,,False,False
+Ag@S3N1,Ag,S3N1,S/N (Xu),double,4,1,3,0,ok,1.412,-0.612,unstable,2.112,1.2424,-0.5364,0.004,0.1461,,,,,,False,False
+Ag@S4,Ag,S4,S/N (Xu),double,4,0,4,0,ok,1.833,-1.033,unstable,-0.24,,-0.2454,,-0.1314,,,,,,False,False
+Au@N4,Au,N4,S/N (Xu),double,4,4,0,0,ok,0.2709,1.4077,uncertain,2.463,,-0.2917,,0.7515,-0.6005,,,,-0.6005,False,False
+Au@S1N3,Au,S1N3,S/N (Xu),double,4,3,1,0,ok,1.2507,1.0811,unstable,1.5249,,-0.2557,,-0.317,,,,,,False,False
+Au@S2N2-HEX,Au,S2N2-HEX,S/N (Xu),double,4,2,2,0,ok,1.8331,0.887,unstable,1.6365,,-1.245,,-0.9929,,,,,,False,False
+Au@S2N2-OPP,Au,S2N2-OPP,S/N (Xu),double,4,2,2,0,ok,1.4022,1.0306,unstable,0.4683,,0.5986,,-0.3732,,,,,,False,False
+Au@S2N2-PEN,Au,S2N2-PEN,S/N (Xu),double,4,2,2,0,metal left the site,1.8121,0.894,metal leaves site,1.7022,,-1.3593,,-1.0448,,,,,,False,False
+Au@S3N1,Au,S3N1,S/N (Xu),double,4,1,3,0,ok,1.4333,1.0202,unstable,1.5515,,0.1726,,-0.5219,,,,,,False,False
+Au@S4,Au,S4,S/N (Xu),double,4,0,4,0,ok,2.0782,0.8053,unstable,-0.5574,,-0.2227,,-0.7695,,,,,,False,False
+Cd@N4,Cd,N4,S/N (Xu),double,4,4,0,0,ok,-0.6713,-0.0674,uncertain,1.8691,,-0.2918,,-0.1295,-1.1836,,,,-1.1836,False,False
+Cd@S1N3,Cd,S1N3,S/N (Xu),double,4,3,1,0,ok,0.3923,-0.5992,unstable,1.8593,,-0.3159,,-0.2292,-1.1751,,,,-1.1751,False,False
+Cd@S2N2-HEX,Cd,S2N2-HEX,S/N (Xu),double,4,2,2,0,metal left the site,0.1896,-0.4978,metal leaves site,1.6268,,1.069,,0.1701,,,,,,False,False
+Cd@S2N2-OPP,Cd,S2N2-OPP,S/N (Xu),double,4,2,2,0,ok,0.1757,-0.4908,unstable,3.5764,,-0.0242,,0.5112,,,,,,False,False
+Cd@S2N2-PEN,Cd,S2N2-PEN,S/N (Xu),double,4,2,2,0,metal left the site,0.1889,-0.4974,metal leaves site,1.7933,,0.7409,,0.685,,,,,,False,False
+Cd@S3N1,Cd,S3N1,S/N (Xu),double,4,1,3,0,metal left the site,0.2156,-0.5108,metal leaves site,0.2166,,2.295,,0.9864,,,,,,False,False
+Cd@S4,Cd,S4,S/N (Xu),double,4,0,4,0,metal left the site,-0.6453,-0.0803,metal leaves site,2.4063,,1.0484,,1.2807,,,,,,False,False
+Co@N4,Co,N4,S/N (Xu),double,4,4,0,0,ok,-2.017,0.7285,stable,1.4967,1.3185,-0.4838,-0.0931,0.4572,-0.6813,-1.3185,distal,N2_end->NNH_end,-0.6813,False,False
+Co@S1N3,Co,S1N3,S/N (Xu),double,4,3,1,0,ok,-0.8165,0.1283,uncertain,1.5801,1.2673,-0.6328,-0.1486,0.4585,-0.6467,-1.2673,distal,N2_end->NNH_end,-0.6467,False,False
+Co@S2N2-HEX,Co,S2N2-HEX,S/N (Xu),double,4,2,2,0,ok,0.0259,-0.293,uncertain,1.6835,1.2788,-0.6078,-0.1566,0.4551,-0.6132,-1.2788,distal,N2_end->NNH_end,-0.6132,False,False
+Co@S2N2-OPP,Co,S2N2-OPP,S/N (Xu),double,4,2,2,0,ok,0.338,-0.449,unstable,1.6717,1.275,-0.946,-0.3727,0.3717,-0.6348,-1.275,distal,N2_end->NNH_end,-0.6348,False,False
+Co@S2N2-PEN,Co,S2N2-PEN,S/N (Xu),double,4,2,2,0,ok,-0.197,-0.1815,uncertain,1.6114,,-0.3017,,0.5458,-0.5897,,,,-0.5897,False,False
+Co@S3N1,Co,S3N1,S/N (Xu),double,4,1,3,0,ok,0.94,-0.75,unstable,1.6785,,-0.2916,,0.5352,-0.5581,,,,-0.5581,False,False
+Co@S4,Co,S4,S/N (Xu),double,4,0,4,0,ok,0.585,-0.5725,unstable,1.856,1.2668,-0.6257,-0.082,0.6314,-0.4988,-1.2668,alternating,N2_end->NNH_end,-0.4988,False,False
+Cr@N4,Cr,N4,S/N (Xu),double,4,4,0,0,ok,-2.2976,0.2358,uncertain,0.8232,0.7857,-0.4863,-0.0578,0.4643,-0.4273,-0.7857,distal,N2_end->NNH_end,-0.4273,False,False
+Cr@S1N3,Cr,S1N3,S/N (Xu),double,4,3,1,0,ok,-1.0723,-0.3769,unstable,0.794,0.6778,-0.3008,-0.2042,0.5325,-0.3753,-0.6778,distal,N2_end->NNH_end,-0.3753,False,False
+Cr@S2N2-HEX,Cr,S2N2-HEX,S/N (Xu),double,4,2,2,0,ok,0.0514,-0.9387,unstable,0.7478,0.82,-0.5004,-0.0621,0.4323,-0.3669,-0.82,distal,N2_end->NNH_end,-0.3669,False,False
+Cr@S2N2-OPP,Cr,S2N2-OPP,S/N (Xu),double,4,2,2,0,ok,0.2411,-1.0336,unstable,0.6954,0.7486,0.2146,-0.3449,0.9372,-0.2359,,,,-0.2359,False,False
+Cr@S2N2-PEN,Cr,S2N2-PEN,S/N (Xu),double,4,2,2,0,ok,-0.219,-0.8035,unstable,0.8738,,-0.276,,0.5079,-0.3473,,,,-0.3473,False,False
+Cr@S3N1,Cr,S3N1,S/N (Xu),double,4,1,3,0,ok,1.2844,-1.5552,unstable,0.6392,,-0.3032,,0.4528,-0.3273,,,,-0.3273,False,False
+Cr@S4,Cr,S4,S/N (Xu),double,4,0,4,0,ok,1.2283,-1.5271,unstable,0.7193,0.7643,-0.8419,-0.2235,0.3472,-0.3203,-0.7643,distal,N2_end->NNH_end,-0.3203,False,False
+Cu@N4,Cu,N4,S/N (Xu),double,4,4,0,0,ok,-1.3335,1.0088,stable,1.9781,1.0904,-0.0924,-0.423,1.568,-0.5475,-1.0904,alternating,N2_end->NNH_end,-0.5475,False,False
+Cu@S1N3,Cu,S1N3,S/N (Xu),double,4,3,1,0,ok,-0.3581,0.5211,uncertain,1.9612,1.0826,-0.1994,-0.3268,1.4013,-0.5564,-1.0826,alternating,N2_end->NNH_end,-0.5564,False,False
+Cu@S2N2-HEX,Cu,S2N2-HEX,S/N (Xu),double,4,2,2,0,ok,0.5817,0.0512,uncertain,1.2927,1.3011,-0.5123,-0.0686,1.134,-0.5914,-1.3011,alternating,N2_end->NNH_end,-0.5914,False,False
+Cu@S2N2-OPP,Cu,S2N2-OPP,S/N (Xu),double,4,2,2,0,ok,0.5406,0.0717,uncertain,2.4619,,-0.2528,,1.5456,-0.4846,,,,-0.4846,False,False
+Cu@S2N2-PEN,Cu,S2N2-PEN,S/N (Xu),double,4,2,2,0,ok,0.2248,0.2296,uncertain,2.1,,-0.2708,,1.4004,-0.5223,,,,-0.5223,False,False
+Cu@S3N1,Cu,S3N1,S/N (Xu),double,4,1,3,0,ok,0.6862,-0.0011,uncertain,2.0376,1.2837,-0.4963,-0.1525,1.0337,-0.5831,-1.2837,alternating,N2_end->NNH_end,-0.5831,False,False
+Cu@S4,Cu,S4,S/N (Xu),double,4,0,4,0,ok,1.2197,-0.2678,unstable,1.9963,1.2311,-0.5936,-0.071,0.7192,-0.6303,-1.2311,alternating,N2_end->NNH_end,-0.6303,False,False
+Fe@N4,Fe,N4,S/N (Xu),double,4,4,0,0,ok,-1.8453,0.4757,stable,1.4443,1.258,-0.8079,-0.4164,0.1529,-0.6796,-1.258,distal,N2_end->NNH_end,-0.6796,False,False
+Fe@S1N3,Fe,S1N3,S/N (Xu),double,4,3,1,0,ok,-0.5476,-0.1732,uncertain,1.3542,1.2262,-0.8226,-0.1829,0.155,-0.6447,-1.2262,distal,N2_end->NNH_end,-0.6447,False,False
+Fe@S2N2-HEX,Fe,S2N2-HEX,S/N (Xu),double,4,2,2,0,ok,0.4232,-0.6586,unstable,1.3878,1.2613,-1.1242,-0.3933,0.0285,-0.6432,-1.2613,distal,N2_end->NNH_end,-0.6432,False,False
+Fe@S2N2-OPP,Fe,S2N2-OPP,S/N (Xu),double,4,2,2,0,ok,0.6445,-0.7693,unstable,1.2709,1.3311,-0.4766,-0.0779,0.3576,-0.5578,-1.3311,distal,N2_end->NNH_end,-0.5578,False,False
+Fe@S2N2-PEN,Fe,S2N2-PEN,S/N (Xu),double,4,2,2,0,ok,0.1623,-0.5282,unstable,1.3782,1.2628,-0.9313,-0.3752,0.1513,-0.6114,-1.2628,distal,N2_end->NNH_end,-0.6114,False,False
+Fe@S3N1,Fe,S3N1,S/N (Xu),double,4,1,3,0,ok,1.3845,-1.1393,unstable,1.4023,1.2582,-1.0551,-0.4096,0.0725,-0.5974,-1.2582,distal,N2_end->NNH_end,-0.5974,False,False
+Fe@S4,Fe,S4,S/N (Xu),double,4,0,4,0,ok,1.0752,-0.9846,unstable,1.5933,1.3113,-1.3135,-0.4178,-0.008,-0.584,-1.3113,distal,N2_end->NNH_end,-0.584,False,False
+Hf@N4,Hf,N4,S/N (Xu),double,4,4,0,0,ok,-2.3563,-0.9609,unstable,0.7135,0.6833,-1.1706,-0.6738,-0.8594,-0.7244,-0.795,alternating,NH2->NH3,-0.7244,False,False
+Hf@S1N3,Hf,S1N3,S/N (Xu),double,4,3,1,0,ok,-0.5535,-1.4116,unstable,0.6012,0.6772,-1.3202,-0.9342,-0.9823,-0.722,-1.1754,alternating,NHNH2->NH2NH2,-0.722,False,False
+Hf@S2N2-HEX,Hf,S2N2-HEX,S/N (Xu),double,4,2,2,0,ok,0.6893,-1.7223,unstable,0.66,0.7243,-1.3511,-0.8551,-0.8661,-0.6575,-1.1502,alternating,NHNH2->NH2NH2,-0.6575,False,False
+Hf@S2N2-OPP,Hf,S2N2-OPP,S/N (Xu),double,4,2,2,0,ok,0.0275,-1.5569,unstable,0.6998,0.7243,-1.257,-0.8752,-0.7217,-0.62,-0.9183,alternating,NHNH2->NH2NH2,-0.62,False,False
+Hf@S2N2-PEN,Hf,S2N2-PEN,S/N (Xu),double,4,2,2,0,ok,0.4358,-1.6589,unstable,0.5829,0.7182,-1.3862,-0.9716,-0.9764,-0.6861,-1.4976,distal,NNH2->N,-0.6861,False,False
+Hf@S3N1,Hf,S3N1,S/N (Xu),double,4,1,3,0,ok,0.7859,-1.7465,unstable,0.661,0.7196,-1.438,-0.9755,-0.8495,-0.6188,-1.0006,alternating,NHNH2->NH2NH2,-0.6188,False,False
+Hf@S4,Hf,S4,S/N (Xu),double,4,0,4,0,ok,1.8575,-2.0144,unstable,0.7976,0.7196,-1.3319,-0.801,-0.6576,-0.5347,-1.1623,alternating,NHNH2->NH2NH2,-0.5347,False,False
+Hg@N4,Hg,N4,S/N (Xu),double,4,4,0,0,metal left the site,-0.1407,0.9214,metal leaves site,2.2469,,-0.4006,,0.0336,,,,,,False,False
+Hg@S1N3,Hg,S1N3,S/N (Xu),double,4,3,1,0,metal left the site,-0.253,0.9775,metal leaves site,2.9724,,0.0001,,1.0805,,,,,,False,False
+Hg@S2N2-HEX,Hg,S2N2-HEX,S/N (Xu),double,4,2,2,0,metal left the site,-0.2459,0.974,metal leaves site,3.3537,,-0.2805,,1.0931,,,,,,False,False
+Hg@S2N2-OPP,Hg,S2N2-OPP,S/N (Xu),double,4,2,2,0,ok,-0.2597,0.9808,uncertain,2.5108,,-0.3863,,1.2267,,,,,,False,False
+Hg@S2N2-PEN,Hg,S2N2-PEN,S/N (Xu),double,4,2,2,0,metal left the site,-0.2119,0.9569,metal leaves site,2.7366,,-0.3525,,1.7573,,,,,,False,False
+Hg@S3N1,Hg,S3N1,S/N (Xu),double,4,1,3,0,metal left the site,-0.1878,0.9449,metal leaves site,2.2865,,-0.3639,,2.1739,,,,,,False,False
+Hg@S4,Hg,S4,S/N (Xu),double,4,0,4,0,metal left the site,-1.0483,1.3751,metal leaves site,0.9311,,1.0477,,2.1117,,,,,,False,False
+Ir@N4,Ir,N4,S/N (Xu),double,4,4,0,0,ok,-1.0428,1.5036,stable,1.6255,,-0.2319,,0.1692,-0.6544,,,,-0.6544,False,False
+Ir@S1N3,Ir,S1N3,S/N (Xu),double,4,3,1,0,ok,0.1345,1.1112,uncertain,1.8097,,-0.3101,,0.2347,-0.6031,,,,-0.6031,False,False
+Ir@S2N2-HEX,Ir,S2N2-HEX,S/N (Xu),double,4,2,2,0,ok,0.8711,0.8656,unstable,1.603,,-0.2871,,0.0354,-0.6204,,,,-0.6204,False,False
+Ir@S2N2-OPP,Ir,S2N2-OPP,S/N (Xu),double,4,2,2,0,ok,1.5787,0.6298,unstable,1.4055,0.9187,-0.2438,-0.7505,0.0838,-0.6079,-0.9187,distal,N2_end->NNH_end,-0.6079,False,False
+Ir@S2N2-PEN,Ir,S2N2-PEN,S/N (Xu),double,4,2,2,0,ok,0.6027,0.9551,uncertain,1.6959,,-0.2631,,0.1303,-0.5958,,,,-0.5958,False,False
+Ir@S3N1,Ir,S3N1,S/N (Xu),double,4,1,3,0,ok,1.7164,0.5839,unstable,1.7889,,-0.262,,0.1788,-0.5489,,,,-0.5489,False,False
+Ir@S4,Ir,S4,S/N (Xu),double,4,0,4,0,ok,1.1482,0.7733,unstable,1.9521,,-0.2299,,0.399,-0.4574,,,,-0.4574,False,False
+Mn@N4,Mn,N4,S/N (Xu),double,4,4,0,0,ok,-2.1399,-0.115,uncertain,1.151,1.0121,-0.5895,0.2161,0.2222,-0.654,-1.0121,distal,N2_end->NNH_end,-0.654,False,False
+Mn@S1N3,Mn,S1N3,S/N (Xu),double,4,3,1,0,ok,-0.8769,-0.7465,unstable,1.0043,0.7804,-0.4543,0.3551,0.4269,-0.5666,-0.7804,alternating,N2_end->NNH_end,-0.5666,False,False
+Mn@S2N2-HEX,Mn,S2N2-HEX,S/N (Xu),double,4,2,2,0,ok,0.2718,-1.3209,unstable,1.036,0.7625,-0.856,-0.0191,0.256,-0.5766,-0.7625,distal,N2_end->NNH_end,-0.5766,False,False
+Mn@S2N2-OPP,Mn,S2N2-OPP,S/N (Xu),double,4,2,2,0,ok,0.3419,-1.3559,unstable,1.2949,,-0.2224,,0.8171,-0.431,,,,-0.431,False,False
+Mn@S2N2-PEN,Mn,S2N2-PEN,S/N (Xu),double,4,2,2,0,ok,-0.002,-1.184,unstable,0.8811,,-0.2639,,0.4191,-0.5343,,,,-0.5343,False,False
+Mn@S3N1,Mn,S3N1,S/N (Xu),double,4,1,3,0,ok,1.4605,-1.9153,unstable,0.9548,0.7736,-0.9148,-0.1959,0.2057,-0.5553,-0.7736,distal,N2_end->NNH_end,-0.5553,False,False
+Mn@S4,Mn,S4,S/N (Xu),double,4,0,4,0,ok,1.3035,-1.8367,unstable,1.1066,0.8193,-1.3134,-0.4328,0.4516,-0.4571,-0.8193,distal,N2_end->NNH_end,-0.4571,False,False
+Mo@N4,Mo,N4,S/N (Xu),double,4,4,0,0,ok,-0.207,-0.131,uncertain,0.2292,0.3603,-1.0789,-0.8749,-0.2337,-0.4496,-0.7131,distal,NH2->NH3,-0.4496,False,False
+Mo@S1N3,Mo,S1N3,S/N (Xu),double,4,3,1,0,ok,0.6842,-0.4281,unstable,0.1782,0.3724,-0.6807,-0.9004,0.2612,-0.2869,-0.4917,distal,NH2->NH3,-0.2869,False,False
+Mo@S2N2-HEX,Mo,S2N2-HEX,S/N (Xu),double,4,2,2,0,ok,1.5336,-0.7112,unstable,0.3675,0.4173,-1.4063,-0.9555,-0.3594,-0.4136,-0.4173,distal,N2_end->NNH_end,-0.4136,False,False
+Mo@S2N2-OPP,Mo,S2N2-OPP,S/N (Xu),double,4,2,2,0,ok,1.1911,-0.597,unstable,0.5097,0.3933,-0.6436,-0.8233,-0.1882,-0.3691,-0.3933,distal,N2_end->NNH_end,-0.3691,False,False
+Mo@S2N2-PEN,Mo,S2N2-PEN,S/N (Xu),double,4,2,2,0,ok,2.5539,-1.0513,unstable,1.0829,0.5959,-2.341,-0.9814,-0.3247,-0.4046,-0.5959,distal,N2_end->NNH_end,-0.4046,False,False
+Mo@S3N1,Mo,S3N1,S/N (Xu),double,4,1,3,0,ok,2.2086,-0.9362,unstable,1.0421,0.5358,-1.6221,-0.9989,-0.3834,-0.3854,-0.5358,distal,N2_end->NNH_end,-0.3854,False,False
+Mo@S4,Mo,S4,S/N (Xu),double,4,0,4,0,ok,2.5947,-1.0649,unstable,0.3726,0.4043,-1.588,-0.8119,-0.2358,-0.3128,-0.4043,distal,N2_end->NNH_end,-0.3128,False,False
+Nb@N4,Nb,N4,S/N (Xu),double,4,4,0,0,ok,-0.7982,-0.8329,unstable,0.5006,0.403,-1.2142,-0.7475,-0.5556,-0.6145,-0.7847,distal,NH2->NH3,-0.6145,False,False
+Nb@S1N3,Nb,S1N3,S/N (Xu),double,4,3,1,0,ok,0.142,-1.1463,unstable,0.5027,0.4095,-1.2896,-0.8483,-0.5347,-0.5747,-0.4724,distal,NH2->NH3,-0.5747,False,False
+Nb@S2N2-HEX,Nb,S2N2-HEX,S/N (Xu),double,4,2,2,0,ok,1.0341,-1.4437,unstable,0.549,0.5211,-1.4858,-0.628,-0.5125,-0.5346,-1.0062,alternating,NHNH2->NH2NH2,-0.5346,False,False
+Nb@S2N2-OPP,Nb,S2N2-OPP,S/N (Xu),double,4,2,2,0,ok,1.3215,-1.5395,unstable,0.4694,0.4601,-1.5076,-0.5187,-0.5689,-0.5492,-0.5201,distal,NH2->NH3,-0.5492,False,False
+Nb@S2N2-PEN,Nb,S2N2-PEN,S/N (Xu),double,4,2,2,0,ok,1.3724,-1.5565,unstable,0.4666,0.4601,-1.4921,-0.7189,-0.6183,-0.562,-0.6857,distal,NH2->NH3,-0.562,False,False
+Nb@S3N1,Nb,S3N1,S/N (Xu),double,4,1,3,0,ok,1.7145,-1.6705,unstable,1.0028,0.5167,-1.5404,-0.7781,-0.5081,-0.4991,-0.5167,distal,N2_end->NNH_end,-0.4991,False,False
+Nb@S4,Nb,S4,S/N (Xu),double,4,0,4,0,ok,2.1246,-1.8072,unstable,0.6606,0.5325,-1.3348,-0.6951,-0.4506,-0.4498,-0.5325,distal,N2_end->NNH_end,-0.4498,False,False
+Ni@N4,Ni,N4,S/N (Xu),double,4,4,0,0,ok,-2.1774,0.8317,stable,2.383,,-0.3777,,1.5084,-0.4956,,,,-0.4956,False,False
+Ni@S1N3,Ni,S1N3,S/N (Xu),double,4,3,1,0,ok,-0.9726,0.2293,uncertain,2.2075,,-0.3363,,1.3345,-0.5064,,,,-0.5064,False,False
+Ni@S2N2-HEX,Ni,S2N2-HEX,S/N (Xu),double,4,2,2,0,ok,-0.0754,-0.2193,uncertain,2.0618,1.0726,-0.227,-0.3399,1.2506,-0.4938,-1.9774,distal,NNH2->N,-0.4938,False,False
+Ni@S2N2-OPP,Ni,S2N2-OPP,S/N (Xu),double,4,2,2,0,ok,0.2328,-0.3734,unstable,2.2676,,-0.2963,,0.9431,-0.5736,,,,-0.5736,False,False
+Ni@S2N2-PEN,Ni,S2N2-PEN,S/N (Xu),double,4,2,2,0,ok,-0.2961,-0.109,uncertain,2.1595,,-0.3341,,1.3204,-0.4757,,,,-0.4757,False,False
+Ni@S3N1,Ni,S3N1,S/N (Xu),double,4,1,3,0,ok,0.901,-0.7075,unstable,0.9258,0.7677,-0.288,-0.3511,1.0378,-0.5147,-1.9428,distal,NNH2->N,-0.5147,False,False
+Ni@S4,Ni,S4,S/N (Xu),double,4,0,4,0,ok,0.643,-0.5785,unstable,1.9916,1.2123,-0.5803,-0.0681,1.0005,-0.49,-1.2123,alternating,N2_end->NNH_end,-0.49,False,False
+Os@N4,Os,N4,S/N (Xu),double,4,4,0,0,ok,0.3597,0.793,uncertain,0.6956,0.8477,-0.9818,-0.8222,-0.5828,-0.753,-0.8477,distal,N2_end->NNH_end,-0.753,False,False
+Os@S1N3,Os,S1N3,S/N (Xu),double,4,3,1,0,ok,1.4549,0.6561,unstable,0.9448,0.8377,-1.1143,-0.5425,-0.6496,-0.736,-0.8377,distal,N2_end->NNH_end,-0.736,False,False
+Os@S2N2-HEX,Os,S2N2-HEX,S/N (Xu),double,4,2,2,0,ok,1.9655,0.5923,unstable,0.7505,0.9189,-1.1143,-0.5809,-0.32,-0.6161,-0.9189,distal,N2_end->NNH_end,-0.6161,False,False
+Os@S2N2-OPP,Os,S2N2-OPP,S/N (Xu),double,4,2,2,0,ok,2.3417,0.5453,unstable,1.2034,1.1197,-1.0889,-0.5135,-0.0741,-0.5523,-1.1197,distal,N2_end->NNH_end,-0.5523,False,False
+Os@S2N2-PEN,Os,S2N2-PEN,S/N (Xu),double,4,2,2,0,ok,2.8687,0.4794,unstable,1.08,0.9552,-1.8817,-0.7728,-0.7291,-0.7223,-0.9552,distal,N2_end->NNH_end,-0.7223,False,False
+Os@S3N1,Os,S3N1,S/N (Xu),double,4,1,3,0,ok,3.165,0.4424,unstable,1.1075,0.9694,-1.4746,-0.6792,-0.4296,-0.6102,-0.9694,distal,N2_end->NNH_end,-0.6102,False,False
+Os@S4,Os,S4,S/N (Xu),double,4,0,4,0,ok,2.4645,0.5299,unstable,1.4973,1.1585,-0.8853,-0.2849,-0.6388,-0.6301,-1.1585,distal,N2_end->NNH_end,-0.6301,False,False
+Pd@N4,Pd,N4,S/N (Xu),double,4,4,0,0,ok,-1.4138,1.6579,stable,2.5018,,-0.2879,,1.9238,-0.231,,,,-0.231,False,False
+Pd@S1N3,Pd,S1N3,S/N (Xu),double,4,3,1,0,ok,-0.2878,1.0949,uncertain,2.4621,,-0.2883,,1.4527,-0.3188,,,,-0.3188,False,False
+Pd@S2N2-HEX,Pd,S2N2-HEX,S/N (Xu),double,4,2,2,0,ok,0.4407,0.7307,uncertain,2.4962,,-0.301,,1.6511,-0.233,,,,-0.233,False,False
+Pd@S2N2-OPP,Pd,S2N2-OPP,S/N (Xu),double,4,2,2,0,ok,1.0495,0.4262,unstable,2.0322,,-0.2931,,0.4524,-0.544,,,,-0.544,False,False
+Pd@S2N2-PEN,Pd,S2N2-PEN,S/N (Xu),double,4,2,2,0,ok,0.2059,0.848,uncertain,2.474,,-0.269,,1.6571,-0.2315,,,,-0.2315,False,False
+Pd@S3N1,Pd,S3N1,S/N (Xu),double,4,1,3,0,ok,1.3885,0.2567,unstable,1.1442,,-0.3078,,0.9684,-0.3758,,,,-0.3758,False,False
+Pd@S4,Pd,S4,S/N (Xu),double,4,0,4,0,ok,1.0384,0.4318,unstable,2.0446,,-0.332,,1.2664,-0.2642,,,,-0.2642,False,False
+Pt@N4,Pt,N4,S/N (Xu),double,4,4,0,0,ok,-1.525,1.9425,stable,2.4661,,-0.2731,,1.5102,-0.3707,,,,-0.3707,False,False
+Pt@S1N3,Pt,S1N3,S/N (Xu),double,4,3,1,0,ok,-0.3358,1.3479,uncertain,2.4929,,-0.2788,,1.3969,-0.3657,,,,-0.3657,False,False
+Pt@S2N2-HEX,Pt,S2N2-HEX,S/N (Xu),double,4,2,2,0,ok,0.3644,0.9978,uncertain,2.4755,,-0.2734,,1.3428,-0.3454,,,,-0.3454,False,False
+Pt@S2N2-OPP,Pt,S2N2-OPP,S/N (Xu),double,4,2,2,0,ok,1.1144,0.6228,unstable,2.497,,-0.2729,,0.263,-0.6256,,,,-0.6256,False,False
+Pt@S2N2-PEN,Pt,S2N2-PEN,S/N (Xu),double,4,2,2,0,ok,0.1973,1.0813,uncertain,2.4935,,-0.2645,,1.389,-0.3334,,,,-0.3334,False,False
+Pt@S3N1,Pt,S3N1,S/N (Xu),double,4,1,3,0,ok,1.407,0.4765,unstable,2.5028,,-0.2752,,0.8642,-0.4352,,,,-0.4352,False,False
+Pt@S4,Pt,S4,S/N (Xu),double,4,0,4,0,ok,1.0624,0.6488,unstable,2.5041,,-0.2923,,1.1737,-0.3206,,,,-0.3206,False,False
+Re@N4,Re,N4,S/N (Xu),double,4,4,0,0,ok,0.8145,0.0285,unstable,0.0874,0.307,-1.5272,-1.0376,-0.7011,-0.7824,-0.7342,distal,NH2->NH3,-0.7824,False,False
+Re@S1N3,Re,S1N3,S/N (Xu),double,4,3,1,0,ok,1.7139,-0.2713,unstable,0.1365,0.3265,-1.2903,-1.118,-0.3755,-0.6636,-0.5066,distal,NH2->NH3,-0.6636,False,False
+Re@S2N2-HEX,Re,S2N2-HEX,S/N (Xu),double,4,2,2,0,ok,2.8685,-0.6562,unstable,0.2613,0.3512,-1.908,-1.0605,-0.8482,-0.7519,-0.3512,distal,N2_end->NNH_end,-0.7519,False,False
+Re@S2N2-OPP,Re,S2N2-OPP,S/N (Xu),double,4,2,2,0,ok,2.866,-0.6553,unstable,0.2321,0.3921,-0.9262,-0.9486,-0.0988,-0.5575,-0.6943,distal,NH2->NH3,-0.5575,False,False
+Re@S2N2-PEN,Re,S2N2-PEN,S/N (Xu),double,4,2,2,0,ok,2.6072,-0.5691,unstable,0.3133,0.3475,-1.8298,-1.0282,-0.8054,-0.7408,-0.4165,distal,N->NH,-0.7408,False,False
+Re@S3N1,Re,S3N1,S/N (Xu),double,4,1,3,0,ok,3.0565,-0.7188,unstable,0.6099,0.5389,-1.7836,-1.1792,-0.7558,-0.6936,-0.5389,distal,N2_end->NNH_end,-0.6936,False,False
+Re@S4,Re,S4,S/N (Xu),double,4,0,4,0,ok,3.1316,-0.7439,unstable,0.644,0.545,-1.6805,-1.3864,-0.6718,-0.6374,-0.545,distal,N2_end->NNH_end,-0.6374,False,False
+Rh@N4,Rh,N4,S/N (Xu),double,4,4,0,0,ok,-1.4936,1.2559,stable,1.6106,,-0.23,,0.3312,-0.5546,,,,-0.5546,False,False
+Rh@S1N3,Rh,S1N3,S/N (Xu),double,4,3,1,0,ok,-0.3808,0.8849,uncertain,1.6911,,-0.2756,,0.3621,-0.5122,,,,-0.5122,False,False
+Rh@S2N2-HEX,Rh,S2N2-HEX,S/N (Xu),double,4,2,2,0,ok,0.2804,0.6645,uncertain,1.7369,,-0.2972,,0.4031,-0.4673,,,,-0.4673,False,False
+Rh@S2N2-OPP,Rh,S2N2-OPP,S/N (Xu),double,4,2,2,0,ok,0.8728,0.4671,unstable,1.2732,1.0968,0.1666,-0.3768,0.4988,-0.4424,-1.0968,distal,N2_end->NNH_end,-0.4424,False,False
+Rh@S2N2-PEN,Rh,S2N2-PEN,S/N (Xu),double,4,2,2,0,ok,-0.0182,0.7641,uncertain,1.8516,,-0.2792,,0.4857,-0.4458,,,,-0.4458,False,False
+Rh@S3N1,Rh,S3N1,S/N (Xu),double,4,1,3,0,ok,1.0504,0.4079,unstable,2.0082,,-0.2859,,0.6376,-0.3721,,,,-0.3721,False,False
+Rh@S4,Rh,S4,S/N (Xu),double,4,0,4,0,ok,0.4928,0.5937,uncertain,2.188,,-0.2857,,0.8859,-0.2733,,,,-0.2733,False,False
+Ru@N4,Ru,N4,S/N (Xu),double,4,4,0,0,ok,-0.4107,0.6604,uncertain,1.1803,1.1537,-0.8297,-0.7628,-0.4811,-0.6942,-1.1537,distal,N2_end->NNH_end,-0.6942,False,False
+Ru@S1N3,Ru,S1N3,S/N (Xu),double,4,3,1,0,ok,0.6091,0.1505,uncertain,1.1592,1.0053,-0.8467,-0.4343,-0.4157,-0.6429,-1.0053,distal,N2_end->NNH_end,-0.6429,False,False
+Ru@S2N2-HEX,Ru,S2N2-HEX,S/N (Xu),double,4,2,2,0,ok,1.4229,-0.2565,unstable,1.2092,1.1611,-1.0677,-0.48,-0.5541,-0.6445,-1.1611,distal,N2_end->NNH_end,-0.6445,False,False
+Ru@S2N2-OPP,Ru,S2N2-OPP,S/N (Xu),double,4,2,2,0,ok,1.9873,-0.5386,unstable,1.0765,0.8497,-0.8095,-0.4675,-0.4096,-0.607,-0.8497,distal,N2_end->NNH_end,-0.607,False,False
+Ru@S2N2-PEN,Ru,S2N2-PEN,S/N (Xu),double,4,2,2,0,ok,1.0716,-0.0808,unstable,1.2552,1.1819,-0.879,-0.5306,-0.4844,-0.6264,-1.6705,distal,NNH2->N,-0.6264,False,False
+Ru@S3N1,Ru,S3N1,S/N (Xu),double,4,1,3,0,ok,2.1613,-0.6256,unstable,1.2551,1.1868,-0.8959,-0.4974,-0.4437,-0.5815,-1.1868,distal,N2_end->NNH_end,-0.5815,False,False
+Ru@S4,Ru,S4,S/N (Xu),double,4,0,4,0,ok,1.5424,-0.3162,unstable,1.7518,1.2069,-0.7315,-0.1436,-0.3471,-0.5221,-1.2069,distal,N2_end->NNH_end,-0.5221,False,False
+Sc@N4,Sc,N4,S/N (Xu),double,4,4,0,0,ok,-3.6013,-0.8766,unstable,1.3449,1.163,-0.8021,-0.3923,0.0803,-0.365,-1.163,alternating,N2_end->NNH_end,-0.365,False,False
+Sc@S1N3,Sc,S1N3,S/N (Xu),double,4,3,1,0,ok,-2.0124,-1.4062,unstable,1.252,1.147,-0.8442,-0.3374,-0.0833,-0.3731,-1.147,alternating,N2_end->NNH_end,-0.3731,False,False
+Sc@S2N2-HEX,Sc,S2N2-HEX,S/N (Xu),double,4,2,2,0,ok,-0.8124,-1.8062,unstable,1.1691,0.9892,-0.8955,-0.3702,-0.2041,-0.3701,-0.9892,alternating,N2_end->NNH_end,-0.3701,False,False
+Sc@S2N2-OPP,Sc,S2N2-OPP,S/N (Xu),double,4,2,2,0,ok,-1.3095,-1.6405,unstable,1.2188,1.1176,-0.7556,-0.3065,0.0512,-0.3038,-1.1176,alternating,N2_end->NNH_end,-0.3038,False,False
+Sc@S2N2-PEN,Sc,S2N2-PEN,S/N (Xu),double,4,2,2,0,ok,-1.1403,-1.6969,unstable,1.2307,1.1018,-0.8896,-0.3606,-0.159,-0.3584,-1.1018,alternating,N2_end->NNH_end,-0.3584,False,False
+Sc@S3N1,Sc,S3N1,S/N (Xu),double,4,1,3,0,ok,0.7652,-2.3321,unstable,1.0481,0.7622,-0.9226,-0.3481,-0.2158,-0.3388,-0.7622,alternating,N2_end->NNH_end,-0.3388,False,False
+Sc@S4,Sc,S4,S/N (Xu),double,4,0,4,0,ok,0.4073,-2.2128,unstable,1.18,1.0972,-0.9063,-0.2233,0.0058,-0.2469,-1.0972,alternating,N2_end->NNH_end,-0.2469,False,False
+Ta@N4,Ta,N4,S/N (Xu),double,4,4,0,0,ok,-0.7114,-0.3629,unstable,0.3151,0.2892,-1.4622,-1.0698,-0.9409,-0.7786,-1.1145,distal,NH2->NH3,-0.7786,False,False
+Ta@S1N3,Ta,S1N3,S/N (Xu),double,4,3,1,0,ok,-0.8287,-0.3238,unstable,1.0975,0.3626,-0.6215,-1.0145,-0.1694,-0.5441,-0.3626,alternating,N2_end->NNH_end,-0.5441,False,False
+Ta@S2N2-HEX,Ta,S2N2-HEX,S/N (Xu),double,4,2,2,0,ok,0.7759,-0.8586,unstable,1.1165,0.5258,-0.9745,-0.8199,-0.5118,-0.5986,-0.5258,distal,N2_end->NNH_end,-0.5986,False,False
+Ta@S2N2-OPP,Ta,S2N2-OPP,S/N (Xu),double,4,2,2,0,ok,0.2055,-0.6685,unstable,0.8828,0.4861,-1.1435,-0.6662,-0.4703,-0.5878,-0.4861,alternating,N2_end->NNH_end,-0.5878,False,False
+Ta@S2N2-PEN,Ta,S2N2-PEN,S/N (Xu),double,4,2,2,0,ok,1.8283,-1.2094,unstable,0.2932,0.3441,-1.8005,-1.0365,-1.0181,-0.7299,-1.0269,distal,NH2->NH3,-0.7299,False,False
+Ta@S3N1,Ta,S3N1,S/N (Xu),double,4,1,3,0,ok,0.6659,-0.822,unstable,1.0444,0.2477,-0.3822,-1.0487,-0.2524,-0.4969,-0.2477,distal,N2_end->NNH_end,-0.4969,False,False
+Ta@S4,Ta,S4,S/N (Xu),double,4,0,4,0,ok,0.6647,-0.8216,unstable,0.9611,0.4657,-1.2862,-0.9294,-0.4547,-0.5151,-0.4657,distal,N2_end->NNH_end,-0.5151,False,False
+Ti@N4,Ti,N4,S/N (Xu),double,4,4,0,0,ok,-2.6817,-0.2891,uncertain,0.8145,0.7244,-1.0071,-0.6446,-0.2616,-0.4931,-0.7244,alternating,N2_end->NNH_end,-0.4931,False,False
+Ti@S1N3,Ti,S1N3,S/N (Xu),double,4,3,1,0,ok,-1.1224,-1.0688,unstable,0.7541,0.7244,-1.0492,-0.6271,-0.2765,-0.4626,-0.7244,alternating,N2_end->NNH_end,-0.4626,False,False
+Ti@S2N2-HEX,Ti,S2N2-HEX,S/N (Xu),double,4,2,2,0,ok,-0.0129,-1.6235,unstable,0.7337,0.7598,-1.1595,-0.6441,-0.2685,-0.4262,-0.7598,alternating,N2_end->NNH_end,-0.4262,False,False
+Ti@S2N2-OPP,Ti,S2N2-OPP,S/N (Xu),double,4,2,2,0,ok,-0.4323,-1.4138,unstable,2.1063,1.0821,-1.2357,-0.6066,0.9259,-0.1163,-1.0821,distal,N2_end->NNH_end,-0.1163,False,False
+Ti@S2N2-PEN,Ti,S2N2-PEN,S/N (Xu),double,4,2,2,0,ok,-0.7987,-1.2306,unstable,0.5504,,-0.2872,,0.619,-0.1959,,,,-0.1959,False,False
+Ti@S3N1,Ti,S3N1,S/N (Xu),double,4,1,3,0,ok,-0.2366,-1.5117,unstable,0.9604,0.7448,-1.2779,-0.7124,-0.1329,-0.3566,-0.7448,alternating,N2_end->NNH_end,-0.3566,False,False
+Ti@S4,Ti,S4,S/N (Xu),double,4,0,4,0,ok,-0.3621,-1.4489,unstable,0.9064,0.7552,-1.3333,-0.5912,-0.137,-0.3234,-0.7552,alternating,N2_end->NNH_end,-0.3234,False,False
+V@N4,V,N4,S/N (Xu),double,4,4,0,0,ok,-2.1797,-0.0401,uncertain,0.7663,0.7454,-0.8447,-0.6944,0.1461,-0.4552,-0.7454,distal,N2_end->NNH_end,-0.4552,False,False
+V@S1N3,V,S1N3,S/N (Xu),double,4,3,1,0,ok,-1.0797,-0.5901,unstable,0.7125,0.7574,-0.5422,-0.5162,0.5009,-0.3289,-0.7574,distal,N2_end->NNH_end,-0.3289,False,False
+V@S2N2-HEX,V,S2N2-HEX,S/N (Xu),double,4,2,2,0,ok,0.269,-1.2645,unstable,0.6348,0.7609,-0.9794,-0.5554,0.1363,-0.3891,-0.7609,distal,N2_end->NNH_end,-0.3891,False,False
+V@S2N2-OPP,V,S2N2-OPP,S/N (Xu),double,4,2,2,0,ok,0.1067,-1.1834,unstable,0.7489,0.77,-0.9517,-0.5723,0.2839,-0.3508,-0.77,distal,N2_end->NNH_end,-0.3508,False,False
+V@S2N2-PEN,V,S2N2-PEN,S/N (Xu),double,4,2,2,0,ok,-0.2197,-1.0202,unstable,0.8286,0.767,-1.1317,-0.5328,0.0851,-0.4024,-0.767,distal,N2_end->NNH_end,-0.4024,False,False
+V@S3N1,V,S3N1,S/N (Xu),double,4,1,3,0,ok,0.5968,-1.4284,unstable,0.6529,0.7624,-1.2205,-0.6815,0.0162,-0.3859,-0.7624,distal,N2_end->NNH_end,-0.3859,False,False
+V@S4,V,S4,S/N (Xu),double,4,0,4,0,ok,0.1981,-1.2291,unstable,0.7751,0.7624,-1.3023,-0.5898,0.1001,-0.3298,-0.7624,distal,N2_end->NNH_end,-0.3298,False,False
+W@N4,W,N4,S/N (Xu),double,4,4,0,0,ok,0.6339,-0.2785,unstable,0.2024,0.2803,-1.5191,-1.0731,-0.8606,-0.7908,-1.0132,distal,NH2->NH3,-0.7908,False,False
+W@S1N3,W,S1N3,S/N (Xu),double,4,3,1,0,ok,1.483,-0.4907,unstable,0.1298,0.3152,-0.9681,-1.0947,-0.15,-0.5721,-0.9643,distal,NH2->NH3,-0.5721,False,False
+W@S2N2-HEX,W,S2N2-HEX,S/N (Xu),double,4,2,2,0,ok,2.012,-0.623,unstable,0.4503,0.3603,-1.1464,-0.9699,-0.4754,-0.6221,-0.6955,alternating,NNH_end->NHNH,-0.6221,False,False
+W@S2N2-OPP,W,S2N2-OPP,S/N (Xu),double,4,2,2,0,ok,3.0141,-0.8735,unstable,0.1532,0.3622,-0.8253,-0.7961,0.0527,-0.4851,-0.8081,distal,NH2->NH3,-0.4851,False,False
+W@S2N2-PEN,W,S2N2-PEN,S/N (Xu),double,4,2,2,0,ok,2.2631,-0.6858,unstable,0.143,0.3591,-1.219,-1.1885,0.0479,-0.4864,,,,-0.4864,False,False
+W@S3N1,W,S3N1,S/N (Xu),double,4,1,3,0,ok,1.7791,-0.5648,unstable,2.2696,0.3488,-0.2033,-1.2768,-0.2429,-0.5275,,,,-0.5275,False,False
+W@S4,W,S4,S/N (Xu),double,4,0,4,0,ok,3.5992,-1.0198,unstable,0.2438,0.3159,-1.9542,-1.0901,-0.8655,-0.6547,-0.5838,distal,NH2->NH3,-0.6547,False,False
+Y@N4,Y,N4,S/N (Xu),double,4,4,0,0,ok,-3.497,-1.2063,unstable,1.4198,1.1524,-0.7187,-0.2602,0.2077,-0.3764,-1.1524,alternating,N2_end->NNH_end,-0.3764,False,False
+Y@S1N3,Y,S1N3,S/N (Xu),double,4,3,1,0,ok,-1.913,-1.7343,unstable,1.2913,1.148,-0.7288,-0.1639,0.0259,-0.3892,-1.148,alternating,N2_end->NNH_end,-0.3892,False,False
+Y@S2N2-HEX,Y,S2N2-HEX,S/N (Xu),double,4,2,2,0,ok,-0.6598,-2.1521,unstable,1.2446,1.1078,-0.8558,-0.2077,-0.193,-0.4117,-1.1078,alternating,N2_end->NNH_end,-0.4117,False,False
+Y@S2N2-OPP,Y,S2N2-OPP,S/N (Xu),double,4,2,2,0,ok,-1.7544,-1.7872,unstable,1.375,1.1509,-0.698,-0.2062,0.1865,-0.3132,-1.1509,alternating,N2_end->NNH_end,-0.3132,False,False
+Y@S2N2-PEN,Y,S2N2-PEN,S/N (Xu),double,4,2,2,0,ok,-0.988,-2.0427,unstable,1.222,1.1105,-0.768,-0.1913,-0.1388,-0.3976,-1.1105,alternating,N2_end->NNH_end,-0.3976,False,False
+Y@S3N1,Y,S3N1,S/N (Xu),double,4,1,3,0,ok,-0.7033,-2.1376,unstable,1.082,0.7706,1.1501,-0.3363,0.0146,-0.3235,-2.1296,distal,NNH2->N,-0.3235,False,False
+Y@S4,Y,S4,S/N (Xu),double,4,0,4,0,ok,-0.2341,-2.294,unstable,1.2794,,-0.945,-0.1478,-0.111,-0.3217,,,,-0.3217,False,False
+Zn@N4,Zn,N4,S/N (Xu),double,4,4,0,0,ok,-1.9884,0.2322,uncertain,2.0773,,-0.3471,,0.5808,-1.012,,,,-1.012,False,False
+Zn@S1N3,Zn,S1N3,S/N (Xu),double,4,3,1,0,ok,-0.9213,-0.3014,uncertain,2.0683,,-0.2895,,0.6003,-0.9726,,,,-0.9726,False,False
+Zn@S2N2-HEX,Zn,S2N2-HEX,S/N (Xu),double,4,2,2,0,ok,0.2667,-0.8954,unstable,1.8212,,-0.36,,-0.0558,-1.1085,,,,-1.1085,False,False
+Zn@S2N2-OPP,Zn,S2N2-OPP,S/N (Xu),double,4,2,2,0,ok,-0.0571,-0.7334,unstable,2.4999,,0.0223,,0.1316,-1.0598,,,,-1.0598,False,False
+Zn@S2N2-PEN,Zn,S2N2-PEN,S/N (Xu),double,4,2,2,0,ok,-0.0584,-0.7328,unstable,1.9521,,-0.2858,,0.3336,-1.0074,,,,-1.0074,False,False
+Zn@S3N1,Zn,S3N1,S/N (Xu),double,4,1,3,0,ok,1.3488,-1.4364,unstable,1.8769,,-0.3003,,-0.0691,-1.0776,,,,-1.0776,False,False
+Zn@S4,Zn,S4,S/N (Xu),double,4,0,4,0,ok,1.5854,-1.5547,unstable,2.4454,,-1.2858,,-0.4961,-1.154,,,,-1.154,False,False
+Zr@N4,Zr,N4,S/N (Xu),double,4,4,0,0,ok,-2.3217,-0.8696,unstable,0.7999,0.747,-1.0784,-0.5944,-0.5923,-0.6456,-0.747,alternating,N2_end->NNH_end,-0.6456,False,False
+Zr@S1N3,Zr,S1N3,S/N (Xu),double,4,3,1,0,ok,-0.6581,-1.2855,unstable,0.7691,0.759,-1.2363,-0.6573,-0.7147,-0.643,-1.0202,alternating,NHNH2->NH2NH2,-0.643,False,False
+Zr@S2N2-HEX,Zr,S2N2-HEX,S/N (Xu),double,4,2,2,0,ok,0.4679,-1.567,unstable,0.7574,0.8,-1.2045,-0.394,-0.5538,-0.5669,-0.952,alternating,NHNH2->NH2NH2,-0.5669,False,False
+Zr@S2N2-OPP,Zr,S2N2-OPP,S/N (Xu),double,4,2,2,0,ok,-1.3313,-1.1172,unstable,3.5362,1.3715,-0.506,-0.0448,2.5119,0.2285,-1.3715,distal,N2_end->NNH_end,-0.2285,False,False
+Zr@S2N2-PEN,Zr,S2N2-PEN,S/N (Xu),double,4,2,2,0,ok,0.189,-1.4972,unstable,0.7312,0.8,-1.2972,-0.6989,-0.6668,-0.5962,-1.1736,distal,NNH2->N,-0.5962,False,False
+Zr@S3N1,Zr,S3N1,S/N (Xu),double,4,1,3,0,ok,0.4697,-1.5674,unstable,0.7651,0.7954,-1.3271,-0.682,-0.5784,-0.5389,-0.8667,alternating,NHNH2->NH2NH2,-0.5389,False,False
+Zr@S4,Zr,S4,S/N (Xu),double,4,0,4,0,ok,-0.2195,-1.3951,unstable,0.8434,0.7883,-1.2707,-0.5653,-0.4343,-0.4672,-0.7883,alternating,N2_end->NNH_end,-0.4672,False,False
+Ag@C4,Ag,C4,N/C double vacancy,double,4,0,0,4,ok,0.109,0.691,uncertain,2.3941,,-0.2464,,-0.2199,,,,,,False,False
+Ag@N1C3,Ag,N1C3,N/C double vacancy,double,4,1,0,3,ok,-1.1583,1.9583,stable,2.4762,,-0.2728,,-0.1337,,,,,,False,False
+Ag@N2C2-HEX,Ag,N2C2-HEX,N/C double vacancy,double,4,2,0,2,ok,-0.7854,1.5854,stable,2.4989,,-0.2787,,1.8903,-0.4543,,,,-0.4543,False,False
+Ag@N2C2-OPP,Ag,N2C2-OPP,N/C double vacancy,double,4,2,0,2,ok,-1.4519,2.2519,stable,2.4939,,-0.2639,,1.7626,-0.4875,,,,-0.4875,False,False
+Ag@N2C2-PEN,Ag,N2C2-PEN,N/C double vacancy,double,4,2,0,2,ok,-1.7743,2.5743,stable,2.4919,,-0.2819,,1.9061,-0.4502,,,,-0.4502,False,False
+Ag@N3C1,Ag,N3C1,N/C double vacancy,double,4,3,0,1,ok,-0.6492,1.4492,uncertain,2.4879,,-0.2964,,1.3237,-0.6013,,,,-0.6013,False,False
+Ag@SV-C3,Ag,SV-C3,single vacancy,single,3,0,0,3,ok,0.4342,0.3658,uncertain,1.7514,1.2454,-0.8585,-0.1226,-0.2588,-1.0119,-1.2454,alternating,N2_end->NNH_end,-1.0119,False,False
+Ag@SV-N1C2,Ag,SV-N1C2,single vacancy,single,3,1,0,2,ok,1.2304,-0.4304,unstable,1.9714,1.1926,-0.7527,-0.1145,0.1633,-0.9024,-1.1926,alternating,N2_end->NNH_end,-0.9024,False,False
+Ag@SV-N2C1,Ag,SV-N2C1,single vacancy,single,3,2,0,1,ok,0.7734,0.0266,unstable,1.9883,1.1864,-0.8791,-0.1729,0.1999,-0.8929,-1.1864,alternating,N2_end->NNH_end,-0.8929,False,False
+Ag@SV-N3,Ag,SV-N3,single vacancy,single,3,3,0,0,ok,0.8076,-0.0076,unstable,2.0657,1.1864,-0.8543,-0.1226,0.41,-0.8384,-1.1864,alternating,N2_end->NNH_end,-0.8384,False,False
+Au@C4,Au,C4,N/C double vacancy,double,4,0,0,4,ok,-1.0706,1.8549,stable,2.3669,,-0.214,,1.2922,-0.4603,,,,-0.4603,False,False
+Au@N1C3,Au,N1C3,N/C double vacancy,double,4,1,0,3,ok,-2.1632,2.2191,stable,2.4736,,-0.2575,,1.4883,-0.4094,,,,-0.4094,False,False
+Au@N2C2-HEX,Au,N2C2-HEX,N/C double vacancy,double,4,2,0,2,ok,-1.5799,2.0246,stable,2.5117,,-0.2794,,1.8709,-0.3101,,,,-0.3101,False,False
+Au@N2C2-OPP,Au,N2C2-OPP,N/C double vacancy,double,4,2,0,2,ok,-2.2486,2.2475,stable,2.4772,,-0.2559,,1.7597,-0.3389,,,,-0.3389,False,False
+Au@N2C2-PEN,Au,N2C2-PEN,N/C double vacancy,double,4,2,0,2,ok,-2.6324,2.3755,stable,2.5008,,-0.2838,,1.8415,-0.3177,,,,-0.3177,False,False
+Au@N3C1,Au,N3C1,N/C double vacancy,double,4,3,0,1,ok,-1.2921,1.9287,stable,2.5031,,-0.2867,,1.4069,-0.4305,,,,-0.4305,False,False
+Au@SV-C3,Au,SV-C3,single vacancy,single,3,0,0,3,ok,0.0768,1.4724,uncertain,1.3541,1.2357,-0.8992,-0.341,-0.947,-1.0412,-1.2357,distal,N2_end->NNH_end,-1.0412,False,False
+Au@SV-N1C2,Au,SV-N1C2,single vacancy,single,3,1,0,2,ok,1.2361,1.086,unstable,1.4693,1.2649,-1.0326,-0.376,-0.7029,-0.9779,-1.2649,alternating,N2_end->NNH_end,-0.9779,False,False
+Au@SV-N2C1,Au,SV-N2C1,single vacancy,single,3,2,0,1,metal left the site,0.7226,1.2571,metal leaves site,1.9607,,-1.1168,,-0.141,,,,,,False,False
+Au@SV-N3,Au,SV-N3,single vacancy,single,3,3,0,0,ok,1.7529,0.9137,unstable,1.8303,1.2914,-1.5567,-0.3816,-0.9074,-1.0309,-1.2914,alternating,N2_end->NNH_end,-1.0309,False,False
+Cd@C4,Cd,C4,N/C double vacancy,double,4,0,0,4,ok,0.8767,-0.8413,unstable,2.4199,,-0.5528,,0.151,-1.1108,,,,-1.1108,False,False
+Cd@N1C3,Cd,N1C3,N/C double vacancy,double,4,1,0,3,ok,-0.2888,-0.2586,uncertain,2.4495,,-0.3141,,0.1949,,,,,,False,False
+Cd@N2C2-HEX,Cd,N2C2-HEX,N/C double vacancy,double,4,2,0,2,ok,0.0437,-0.4248,unstable,2.4868,,-0.2673,,-0.0022,-1.1505,,,,-1.1505,False,False
+Cd@N2C2-OPP,Cd,N2C2-OPP,N/C double vacancy,double,4,2,0,2,ok,-1.2178,0.2059,uncertain,2.4172,,-0.1951,,0.7227,-0.9625,,,,-0.9625,False,False
+Cd@N2C2-PEN,Cd,N2C2-PEN,N/C double vacancy,double,4,2,0,2,ok,-1.0416,0.1178,uncertain,2.4605,,-0.2608,,0.3556,-1.0577,,,,-1.0577,False,False
+Cd@N3C1,Cd,N3C1,N/C double vacancy,double,4,3,0,1,ok,-0.8977,0.0458,uncertain,1.937,,-0.2989,,0.253,-1.0843,,,,-1.0843,False,False
+Cd@SV-C3,Cd,SV-C3,single vacancy,single,3,0,0,3,ok,0.4692,-0.6376,unstable,1.643,1.305,-0.4194,0.0193,-0.5348,-1.2887,-1.305,alternating,N2_end->NNH_end,-1.2887,False,False
+Cd@SV-N1C2,Cd,SV-N1C2,single vacancy,single,3,1,0,2,metal left the site,0.2896,-0.5478,metal leaves site,2.4202,,0.0112,,0.3385,,,,,,False,False
+Cd@SV-N2C1,Cd,SV-N2C1,single vacancy,single,3,2,0,1,ok,0.201,-0.5035,unstable,1.6049,1.1574,-0.2987,0.0152,-0.4504,-1.2668,-1.1574,alternating,N2_end->NNH_end,-1.2668,False,False
+Cd@SV-N3,Cd,SV-N3,single vacancy,single,3,3,0,0,ok,0.1875,-0.4967,unstable,1.3293,1.1206,0.1234,-0.0139,-0.5176,-1.2843,-1.1206,alternating,N2_end->NNH_end,-1.2843,False,False
+Co@C4,Co,C4,N/C double vacancy,double,4,0,0,4,ok,-0.9895,0.2147,uncertain,1.1992,1.1814,-0.9062,-0.3516,0.1586,-0.7588,-1.1814,distal,N2_end->NNH_end,-0.7588,False,False
+Co@N1C3,Co,N1C3,N/C double vacancy,double,4,1,0,3,ok,-2.2712,0.8556,stable,1.2967,1.2084,-0.8586,-0.3571,-0.4393,,-1.2084,distal,N2_end->NNH_end,,False,False
+Co@N2C2-HEX,Co,N2C2-HEX,N/C double vacancy,double,4,2,0,2,ok,-2.2487,0.8444,stable,1.5151,1.2457,-0.6775,-0.4081,0.0274,-0.7929,-1.2457,distal,N2_end->NNH_end,-0.7929,False,False
+Co@N2C2-OPP,Co,N2C2-OPP,N/C double vacancy,double,4,2,0,2,ok,-3.0687,1.2544,stable,1.4877,1.2457,-0.7278,-0.3856,0.0471,-0.7877,-1.2457,distal,N2_end->NNH_end,-0.7877,False,False
+Co@N2C2-PEN,Co,N2C2-PEN,N/C double vacancy,double,4,2,0,2,ok,-3.2829,1.3614,stable,1.53,1.2631,-0.6851,-0.4081,-0.0191,-0.8049,-1.2631,distal,N2_end->NNH_end,-0.8049,False,False
+Co@N3C1,Co,N3C1,N/C double vacancy,double,4,3,0,1,ok,-2.7556,1.0978,stable,1.5265,1.3116,-0.5316,-0.1866,0.228,-0.7408,-1.3116,distal,N2_end->NNH_end,-0.7408,False,False
+Co@SV-C3,Co,SV-C3,single vacancy,single,3,0,0,3,ok,-2.3871,0.9136,stable,1.5913,1.2712,-0.974,-0.433,0.3064,-0.7205,-1.2712,distal,N2_end->NNH_end,-0.7205,False,False
+Co@SV-N1C2,Co,SV-N1C2,single vacancy,single,3,1,0,2,ok,-0.5287,-0.0156,uncertain,1.2596,1.2197,-1.3222,-0.4849,0.0486,-0.7873,-1.2197,distal,N2_end->NNH_end,-0.7873,False,False
+Co@SV-N2C1,Co,SV-N2C1,single vacancy,single,3,2,0,1,ok,-0.5364,-0.0118,uncertain,1.1598,1.0573,-1.4066,-0.5309,0.0911,-0.7763,-1.0573,distal,N2_end->NNH_end,-0.7763,False,False
+Co@SV-N3,Co,SV-N3,single vacancy,single,3,3,0,0,ok,0.2642,-0.4121,unstable,1.123,0.8894,-1.2714,-0.4892,0.4058,-0.6947,-0.8894,distal,N2_end->NNH_end,-0.6947,False,False
+Cr@C4,Cr,C4,N/C double vacancy,double,4,0,0,4,ok,-0.9181,-0.454,unstable,1.0875,0.783,-0.8709,-0.3428,0.297,-0.4708,-0.783,distal,N2_end->NNH_end,-0.4708,False,False
+Cr@N1C3,Cr,N1C3,N/C double vacancy,double,4,1,0,3,ok,-2.1687,0.1713,uncertain,0.9828,0.7389,-0.7615,-0.2938,0.3264,-0.4631,-0.7389,distal,N2_end->NNH_end,-0.4631,False,False
+Cr@N2C2-HEX,Cr,N2C2-HEX,N/C double vacancy,double,4,2,0,2,ok,-1.9308,0.0524,uncertain,0.8509,0.7615,-0.7207,-0.298,0.3579,-0.4549,-0.7615,distal,N2_end->NNH_end,-0.4549,False,False
+Cr@N2C2-OPP,Cr,N2C2-OPP,N/C double vacancy,double,4,2,0,2,ok,-3.0429,0.6085,stable,0.9083,0.7615,-0.688,-0.3088,0.3653,-0.453,-0.7615,distal,N2_end->NNH_end,-0.453,False,False
+Cr@N2C2-PEN,Cr,N2C2-PEN,N/C double vacancy,double,4,2,0,2,ok,-3.0147,0.5943,stable,0.9397,0.7547,-0.7745,-0.3477,0.3328,-0.4614,-0.7547,distal,N2_end->NNH_end,-0.4614,False,False
+Cr@N3C1,Cr,N3C1,N/C double vacancy,double,4,3,0,1,ok,-2.6655,0.4198,stable,0.8352,0.7581,-0.6229,-0.1755,0.3862,-0.4476,-0.7581,distal,N2_end->NNH_end,-0.4476,False,False
+Cr@SV-C3,Cr,SV-C3,single vacancy,single,3,0,0,3,ok,-1.6619,-0.0821,uncertain,1.4708,1.1482,-1.5245,-0.4991,0.0533,-0.534,-1.1482,distal,N2_end->NNH_end,-0.534,False,False
+Cr@SV-N1C2,Cr,SV-N1C2,single vacancy,single,3,1,0,2,ok,-0.3131,-0.7564,unstable,1.2195,1.0806,-1.4658,-0.5192,-0.0391,-0.5579,-1.0806,distal,N2_end->NNH_end,-0.5579,False,False
+Cr@SV-N2C1,Cr,SV-N2C1,single vacancy,single,3,2,0,1,ok,-0.7447,-0.5406,unstable,1.0712,0.7789,-1.3679,-0.5218,-0.0429,-0.5589,-0.7789,distal,N2_end->NNH_end,-0.5589,False,False
+Cr@SV-N3,Cr,SV-N3,single vacancy,single,3,3,0,0,ok,-0.2057,-0.8101,unstable,0.7817,0.7293,-0.9989,-0.4358,0.0056,-0.5463,-0.7293,distal,N2_end->NNH_end,-0.5463,False,False
+Cu@C4,Cu,C4,N/C double vacancy,double,4,0,0,4,ok,-1.3315,1.0077,stable,2.3122,,-0.2041,,1.5007,-0.565,,,,-0.565,False,False
+Cu@N1C3,Cu,N1C3,N/C double vacancy,double,4,1,0,3,ok,-2.5831,1.6335,stable,2.485,,-0.2806,,0.0455,,,,,,False,False
+Cu@N2C2-HEX,Cu,N2C2-HEX,N/C double vacancy,double,4,2,0,2,ok,-2.1857,1.4349,stable,2.509,,-0.3149,,1.8895,-0.4641,,,,-0.4641,False,False
+Cu@N2C2-OPP,Cu,N2C2-OPP,N/C double vacancy,double,4,2,0,2,ok,-2.8445,1.7642,stable,2.4716,,-0.2956,,1.7087,-0.511,,,,-0.511,False,False
+Cu@N2C2-PEN,Cu,N2C2-PEN,N/C double vacancy,double,4,2,0,2,ok,-3.1428,1.9134,stable,2.4984,,-0.3147,,0.2117,,,,,,False,False
+Cu@N3C1,Cu,N3C1,N/C double vacancy,double,4,3,0,1,ok,-2.1385,1.4113,stable,2.4547,,-0.315,,1.6767,-0.5193,,,,-0.5193,False,False
+Cu@SV-C3,Cu,SV-C3,single vacancy,single,3,0,0,3,ok,-0.6436,0.6638,uncertain,1.5525,1.2559,-1.1044,-0.3906,-0.0688,-0.9722,-1.2559,alternating,N2_end->NNH_end,-0.9722,False,False
+Cu@SV-N1C2,Cu,SV-N1C2,single vacancy,single,3,1,0,2,ok,0.6419,0.0211,uncertain,1.6106,1.268,-1.1665,-0.4417,0.1531,-0.9146,-1.268,alternating,N2_end->NNH_end,-0.9146,False,False
+Cu@SV-N2C1,Cu,SV-N2C1,single vacancy,single,3,2,0,1,ok,0.2346,0.2247,uncertain,1.6373,1.2737,-1.337,-0.4515,-0.0244,-0.9607,-1.2737,alternating,N2_end->NNH_end,-0.9607,False,False
+Cu@SV-N3,Cu,SV-N3,single vacancy,single,3,3,0,0,ok,0.6042,0.0399,uncertain,1.785,1.2737,-1.6411,-0.5426,0.0947,-0.9297,-1.2737,alternating,N2_end->NNH_end,-0.9297,False,False
+Fe@C4,Fe,C4,N/C double vacancy,double,4,0,0,4,ok,-0.972,0.039,uncertain,0.9964,0.8277,-0.8357,-0.3781,0.23,-0.6596,-0.8277,distal,N2_end->NNH_end,-0.6596,False,False
+Fe@N1C3,Fe,N1C3,N/C double vacancy,double,4,1,0,3,ok,-2.1765,0.6412,stable,0.9371,0.8407,-0.7269,-0.2861,0.2855,-0.6452,-0.8407,distal,N2_end->NNH_end,-0.6452,False,False
+Fe@N2C2-HEX,Fe,N2C2-HEX,N/C double vacancy,double,4,2,0,2,ok,-2.0069,0.5565,stable,1.0054,0.8215,-0.6329,-0.1343,0.2326,-0.659,-0.8215,distal,N2_end->NNH_end,-0.659,False,False
+Fe@N2C2-OPP,Fe,N2C2-OPP,N/C double vacancy,double,4,2,0,2,ok,-2.8566,0.9813,stable,1.0316,0.8181,-0.7845,-0.3358,0.1796,-0.6727,-0.8181,distal,N2_end->NNH_end,-0.6727,False,False
+Fe@N2C2-PEN,Fe,N2C2-PEN,N/C double vacancy,double,4,2,0,2,ok,-3.0755,1.0908,stable,1.0247,0.8215,-0.6607,-0.3808,0.2057,-0.6659,-0.8215,distal,N2_end->NNH_end,-0.6659,False,False
+Fe@N3C1,Fe,N3C1,N/C double vacancy,double,4,3,0,1,ok,-2.4781,0.792,stable,1.1789,1.1931,-0.756,-0.34,0.1164,-0.6891,-1.1931,distal,N2_end->NNH_end,-0.6891,False,False
+Fe@SV-C3,Fe,SV-C3,single vacancy,single,3,0,0,3,ok,-2.1957,0.6509,stable,1.4973,1.2651,-1.2189,-0.449,0.0677,-0.7017,-1.2651,distal,N2_end->NNH_end,-0.7017,False,False
+Fe@SV-N1C2,Fe,SV-N1C2,single vacancy,single,3,1,0,2,ok,-0.4641,-0.2149,uncertain,1.2899,1.2391,-1.4935,-0.5399,-0.0197,-0.7244,-1.2391,distal,N2_end->NNH_end,-0.7244,False,False
+Fe@SV-N2C1,Fe,SV-N2C1,single vacancy,single,3,2,0,1,ok,-0.5261,-0.1839,uncertain,1.2331,1.1983,-1.578,-0.5593,-0.0221,-0.725,-1.1983,distal,N2_end->NNH_end,-0.725,False,False
+Fe@SV-N3,Fe,SV-N3,single vacancy,single,3,3,0,0,ok,0.1294,-0.5117,unstable,0.914,0.8349,-1.0689,-0.4561,0.2681,-0.6497,-0.8349,distal,N2_end->NNH_end,-0.6497,False,False
+Hf@C4,Hf,C4,N/C double vacancy,double,4,0,0,4,ok,-1.6969,-1.1258,unstable,1.4608,1.0982,-0.7328,-0.5501,0.3199,-0.4184,-1.0982,alternating,N2_end->NNH_end,-0.4184,False,False
+Hf@N1C3,Hf,N1C3,N/C double vacancy,double,4,1,0,3,ok,-2.9111,-0.8222,unstable,1.3171,1.0897,-0.8129,-0.5429,0.0151,-0.4975,-1.0897,alternating,N2_end->NNH_end,-0.4975,False,False
+Hf@N2C2-HEX,Hf,N2C2-HEX,N/C double vacancy,double,4,2,0,2,ok,-2.4608,-0.9348,unstable,1.0862,0.7192,-0.9628,-0.677,-0.3504,-0.5923,-0.7192,alternating,N2_end->NNH_end,-0.5923,False,False
+Hf@N2C2-OPP,Hf,N2C2-OPP,N/C double vacancy,double,4,2,0,2,ok,-3.639,-0.6403,unstable,1.0769,0.7223,-0.9031,-0.6283,-0.3379,-0.5891,-0.7223,alternating,N2_end->NNH_end,-0.5891,False,False
+Hf@N2C2-PEN,Hf,N2C2-PEN,N/C double vacancy,double,4,2,0,2,ok,-3.5984,-0.6504,unstable,1.0825,0.7192,-0.9711,-0.677,-0.3241,-0.5855,-0.7192,alternating,N2_end->NNH_end,-0.5855,False,False
+Hf@N3C1,Hf,N3C1,N/C double vacancy,double,4,3,0,1,ok,-2.9848,-0.8038,unstable,0.8923,0.6784,-1.0519,-0.6805,-0.6284,-0.6645,-0.6784,alternating,N2_end->NNH_end,-0.6645,False,False
+Hf@SV-C3,Hf,SV-C3,single vacancy,single,3,0,0,3,ok,-2.0492,-1.0377,unstable,1.4645,1.1056,-0.8045,-0.5594,0.3192,-0.4186,-1.1056,alternating,N2_end->NNH_end,-0.4186,False,False
+Hf@SV-N1C2,Hf,SV-N1C2,single vacancy,single,3,1,0,2,ok,-0.6823,-1.3794,unstable,1.2028,1.0435,-0.9406,-0.6504,-0.0863,-0.5238,-1.0435,alternating,N2_end->NNH_end,-0.5238,False,False
+Hf@SV-N2C1,Hf,SV-N2C1,single vacancy,single,3,2,0,1,ok,-1.0669,-1.2833,unstable,1.0047,0.6626,-1.0506,-0.6387,-0.4034,-0.6061,-0.6626,alternating,N2_end->NNH_end,-0.6061,False,False
+Hf@SV-N3,Hf,SV-N3,single vacancy,single,3,3,0,0,ok,-0.4828,-1.4293,unstable,0.797,0.6784,-1.0908,-0.6933,-0.5677,-0.6487,-0.7151,alternating,NH2->NH3,-0.6487,False,False
+Hg@C4,Hg,C4,N/C double vacancy,double,4,0,0,4,ok,0.4319,0.635,uncertain,2.4413,,-0.4796,,0.6726,,,,,,False,False
+Hg@N1C3,Hg,N1C3,N/C double vacancy,double,4,1,0,3,ok,-0.4439,1.0729,uncertain,2.4678,,-0.3089,,0.8496,-0.8628,,,,-0.8628,False,False
+Hg@N2C2-HEX,Hg,N2C2-HEX,N/C double vacancy,double,4,2,0,2,ok,0.4893,0.6063,uncertain,2.4597,,-0.2837,,-0.1398,-1.1195,,,,-1.1195,False,False
+Hg@N2C2-OPP,Hg,N2C2-OPP,N/C double vacancy,double,4,2,0,2,ok,-0.7481,1.225,stable,2.4232,,-0.1901,,0.5211,-0.948,,,,-0.948,False,False
+Hg@N2C2-PEN,Hg,N2C2-PEN,N/C double vacancy,double,4,2,0,2,ok,-0.6332,1.1676,uncertain,2.45,,-0.2723,,0.0757,-1.0636,,,,-1.0636,False,False
+Hg@N3C1,Hg,N3C1,N/C double vacancy,double,4,3,0,1,ok,-0.0921,0.897,uncertain,2.4517,,-0.2413,,-0.5311,-1.2211,,,,-1.2211,False,False
+Hg@SV-C3,Hg,SV-C3,single vacancy,single,3,0,0,3,metal left the site,-0.178,0.94,metal leaves site,2.4497,,0.0071,,-0.4536,,,,,,False,False
+Hg@SV-N1C2,Hg,SV-N1C2,single vacancy,single,3,1,0,2,metal left the site,-0.2992,1.0006,metal leaves site,2.1209,,0.1774,,2.5643,,,,,,False,False
+Hg@SV-N2C1,Hg,SV-N2C1,single vacancy,single,3,2,0,1,metal left the site,-0.1264,0.9142,metal leaves site,2.4291,,-0.0274,,-0.0503,,,,,,False,False
+Hg@SV-N3,Hg,SV-N3,single vacancy,single,3,3,0,0,metal left the site,-0.1398,0.9209,metal leaves site,2.3773,,0.0305,,0.4104,,,,,,False,False
+Ir@C4,Ir,C4,N/C double vacancy,double,4,0,0,4,ok,-1.1667,1.5449,stable,0.9717,0.7125,-0.4912,-0.8142,-0.215,-0.7541,-0.7125,distal,N2_end->NNH_end,-0.7541,False,False
+Ir@N1C3,Ir,N1C3,N/C double vacancy,double,4,1,0,3,ok,-1.923,1.797,stable,1.1566,1.0433,-0.7723,-0.7384,-0.2733,-0.7692,-1.0433,distal,N2_end->NNH_end,-0.7692,False,False
+Ir@N2C2-HEX,Ir,N2C2-HEX,N/C double vacancy,double,4,2,0,2,ok,-1.2073,1.5584,stable,1.3877,1.1139,-0.6924,-0.6466,-0.5365,-0.8375,-1.1139,distal,N2_end->NNH_end,-0.8375,False,False
+Ir@N2C2-OPP,Ir,N2C2-OPP,N/C double vacancy,double,4,2,0,2,ok,-2.3028,1.9236,stable,1.2413,1.0319,-0.5858,-0.7551,-0.2605,-0.7659,-1.0319,distal,N2_end->NNH_end,-0.7659,False,False
+Ir@N2C2-PEN,Ir,N2C2-PEN,N/C double vacancy,double,4,2,0,2,ok,-2.3278,1.9319,stable,1.2436,1.0874,-0.6879,-0.6397,-0.5609,-0.8439,-1.0874,distal,N2_end->NNH_end,-0.8439,False,False
+Ir@N3C1,Ir,N3C1,N/C double vacancy,double,4,3,0,1,ok,-1.7475,1.7385,stable,1.0302,0.6344,-0.0655,-0.9451,-0.1921,-0.7482,-0.6344,distal,N2_end->NNH_end,-0.7482,False,False
+Ir@SV-C3,Ir,SV-C3,single vacancy,single,3,0,0,3,ok,-1.966,1.8113,stable,1.3527,1.1327,-0.7652,-0.549,-0.3968,-0.8013,-1.1327,distal,N2_end->NNH_end,-0.8013,False,False
+Ir@SV-N1C2,Ir,SV-N1C2,single vacancy,single,3,1,0,2,ok,0.3534,1.0382,uncertain,1.4413,1.1627,-1.6703,-0.754,-0.8105,-0.9086,-1.1627,distal,N2_end->NNH_end,-0.9086,False,False
+Ir@SV-N2C1,Ir,SV-N2C1,single vacancy,single,3,2,0,1,ok,0.8704,0.8659,unstable,1.0561,0.8337,-1.87,-0.8293,-0.7864,-0.9024,-0.8337,distal,N2_end->NNH_end,-0.9024,False,False
+Ir@SV-N3,Ir,SV-N3,single vacancy,single,3,3,0,0,ok,2.3483,0.3732,unstable,0.435,0.6974,-1.536,-0.8272,-0.8163,-0.9101,-0.6974,distal,N2_end->NNH_end,-0.9101,False,False
+Mn@C4,Mn,C4,N/C double vacancy,double,4,0,0,4,ok,-1.2723,-0.5488,unstable,1.0669,0.8117,-0.7426,-0.0199,0.3927,-0.6098,-0.8117,distal,N2_end->NNH_end,-0.6098,False,False
+Mn@N1C3,Mn,N1C3,N/C double vacancy,double,4,1,0,3,ok,-2.4867,0.0583,uncertain,0.9791,0.7561,-0.604,0.1599,0.4123,-0.6047,-0.7561,distal,N2_end->NNH_end,-0.6047,False,False
+Mn@N2C2-HEX,Mn,N2C2-HEX,N/C double vacancy,double,4,2,0,2,ok,-2.2592,-0.0554,uncertain,0.9451,0.7962,-0.4499,0.2429,0.4688,-0.59,-0.7962,distal,N2_end->NNH_end,-0.59,False,False
+Mn@N2C2-OPP,Mn,N2C2-OPP,N/C double vacancy,double,4,2,0,2,ok,-3.1847,0.4074,stable,0.922,0.7718,-0.526,0.1539,0.3617,-0.6178,-0.7718,distal,N2_end->NNH_end,-0.6178,False,False
+Mn@N2C2-PEN,Mn,N2C2-PEN,N/C double vacancy,double,4,2,0,2,ok,-3.3269,0.4785,stable,0.9036,0.7962,-0.4959,0.2544,0.4274,-0.6008,-0.7962,distal,N2_end->NNH_end,-0.6008,False,False
+Mn@N3C1,Mn,N3C1,N/C double vacancy,double,4,3,0,1,ok,-2.7694,0.1997,uncertain,0.9017,0.7962,-0.4577,0.2269,0.3998,-0.6079,-0.7962,distal,N2_end->NNH_end,-0.6079,False,False
+Mn@SV-C3,Mn,SV-C3,single vacancy,single,3,0,0,3,ok,-2.0899,-0.14,uncertain,1.4296,1.135,-1.3595,-0.3719,0.044,-0.7003,-1.135,distal,N2_end->NNH_end,-0.7003,False,False
+Mn@SV-N1C2,Mn,SV-N1C2,single vacancy,single,3,1,0,2,ok,-0.4656,-0.9522,unstable,1.1711,1.0198,-1.4898,-0.4776,-0.0679,-0.7293,-1.0198,distal,N2_end->NNH_end,-0.7293,False,False
+Mn@SV-N2C1,Mn,SV-N2C1,single vacancy,single,3,2,0,1,ok,-0.7625,-0.8037,unstable,1.0276,0.727,-1.3367,-0.4453,0.0355,-0.7025,-0.727,distal,N2_end->NNH_end,-0.7025,False,False
+Mn@SV-N3,Mn,SV-N3,single vacancy,single,3,3,0,0,ok,-0.3454,-1.0123,unstable,1.2694,1.1293,-1.1525,-0.3061,0.0491,-0.6989,-1.1293,distal,N2_end->NNH_end,-0.6989,False,False
+Mo@C4,Mo,C4,N/C double vacancy,double,4,0,0,4,ok,-0.0791,-0.1736,uncertain,0.8156,0.5114,-1.1672,-0.799,-0.5692,-0.5367,-0.5114,alternating,N2_end->NNH_end,-0.5367,False,False
+Mo@N1C3,Mo,N1C3,N/C double vacancy,double,4,1,0,3,ok,-1.127,0.1757,uncertain,0.8686,0.5114,-1.1186,-0.7522,-0.5795,-0.5393,-0.5114,distal,N2_end->NNH_end,-0.5393,False,False
+Mo@N2C2-HEX,Mo,N2C2-HEX,N/C double vacancy,double,4,2,0,2,ok,-0.4196,-0.0601,uncertain,0.5621,0.4889,-1.4045,-0.9097,-0.658,-0.5597,-0.4889,distal,N2_end->NNH_end,-0.5597,False,False
+Mo@N2C2-OPP,Mo,N2C2-OPP,N/C double vacancy,double,4,2,0,2,ok,-1.6599,0.3533,stable,0.6014,0.4988,-1.1814,-0.8826,-0.5257,-0.5254,-0.6136,distal,NH2->NH3,-0.5254,False,False
+Mo@N2C2-PEN,Mo,N2C2-PEN,N/C double vacancy,double,4,2,0,2,ok,-1.6396,0.3465,stable,0.4579,0.3702,-1.0768,-0.8665,-0.5895,-0.5419,-0.8378,distal,NH2->NH3,-0.5419,False,True
+Mo@N3C1,Mo,N3C1,N/C double vacancy,double,4,3,0,1,ok,-0.8775,0.0925,uncertain,0.4336,0.3702,-1.2724,-0.9199,-0.4549,-0.507,-0.6173,distal,NH2->NH3,-0.507,False,False
+Mo@SV-C3,Mo,SV-C3,single vacancy,single,3,0,0,3,ok,0.6698,-0.4233,unstable,1.1851,0.7914,-2.7703,-0.9469,-1.0113,-0.6514,-0.7914,alternating,N2_end->NNH_end,-0.6514,False,False
+Mo@SV-N1C2,Mo,SV-N1C2,single vacancy,single,3,1,0,2,ok,1.6498,-0.7499,unstable,0.7378,0.5033,-2.3656,-0.9496,-0.5059,-0.5202,-0.5033,alternating,N2_end->NNH_end,-0.5202,False,False
+Mo@SV-N2C1,Mo,SV-N2C1,single vacancy,single,3,2,0,1,ok,1.3203,-0.6401,unstable,0.5239,0.3941,-2.0747,-0.9496,-0.8512,-0.6098,-0.5062,alternating,NHNH2->NH2NH2,-0.6098,False,False
+Mo@SV-N3,Mo,SV-N3,single vacancy,single,3,3,0,0,ok,1.9995,-0.8665,unstable,0.3855,0.322,-1.8548,-0.9277,-0.86,-0.6121,-0.6137,distal,NH2->NH3,-0.6121,False,False
+Nb@C4,Nb,C4,N/C double vacancy,double,4,0,0,4,ok,-1.0778,-0.7397,unstable,1.3779,0.8073,-0.7556,-0.6367,-0.0632,-0.4867,-0.8073,alternating,N2_end->NNH_end,-0.4867,False,False
+Nb@N1C3,Nb,N1C3,N/C double vacancy,double,4,1,0,3,ok,-1.9978,-0.4331,unstable,1.0651,0.5403,-0.8339,-0.8133,-0.2693,-0.5402,-0.5403,alternating,N2_end->NNH_end,-0.5402,False,False
+Nb@N2C2-HEX,Nb,N2C2-HEX,N/C double vacancy,double,4,2,0,2,ok,-1.2958,-0.6671,unstable,0.8976,0.4922,-1.1541,-0.7155,-0.4368,-0.5836,-0.5409,alternating,NHNH2->NH2NH2,-0.5836,False,False
+Nb@N2C2-OPP,Nb,N2C2-OPP,N/C double vacancy,double,4,2,0,2,ok,-2.4573,-0.2799,unstable,0.8061,0.5019,-0.9426,-0.7657,-0.393,-0.5723,-0.5019,alternating,N2_end->NNH_end,-0.5723,False,False
+Nb@N2C2-PEN,Nb,N2C2-PEN,N/C double vacancy,double,4,2,0,2,ok,-2.4164,-0.2935,unstable,0.9225,0.4922,-1.0894,-0.7292,-0.4653,-0.591,-0.7892,alternating,NHNH2->NH2NH2,-0.591,False,False
+Nb@N3C1,Nb,N3C1,N/C double vacancy,double,4,3,0,1,ok,-1.5993,-0.5659,unstable,0.6996,0.4922,-1.174,-0.7555,-0.501,-0.6003,-0.6293,distal,NH2->NH3,-0.6003,False,False
+Nb@SV-C3,Nb,SV-C3,single vacancy,single,3,0,0,3,ok,-1.3936,-0.6345,unstable,1.5034,0.8077,-0.977,-0.6555,0.2149,-0.4145,-0.8077,distal,N2_end->NNH_end,-0.4145,False,False
+Nb@SV-N1C2,Nb,SV-N1C2,single vacancy,single,3,1,0,2,ok,0.212,-1.1697,unstable,0.9635,0.4764,-1.0986,-0.7232,-0.0518,-0.4838,-0.4764,alternating,N2_end->NNH_end,-0.4838,False,False
+Nb@SV-N2C1,Nb,SV-N2C1,single vacancy,single,3,2,0,1,ok,0.0261,-1.1077,unstable,0.7732,0.4922,-1.1661,-0.7555,-0.206,-0.5237,-0.4922,alternating,N2_end->NNH_end,-0.5237,False,False
+Nb@SV-N3,Nb,SV-N3,single vacancy,single,3,3,0,0,ok,0.7335,-1.3435,unstable,0.6075,0.4796,-1.1232,-0.7567,-0.2565,-0.5369,-0.4981,distal,NNH2->N,-0.5369,False,False
+Ni@C4,Ni,C4,N/C double vacancy,double,4,0,0,4,ok,-1.4175,0.4517,stable,1.4504,1.294,-0.453,-0.1156,0.1437,-0.8497,-1.294,distal,N2_end->NNH_end,-0.8497,False,False
+Ni@N1C3,Ni,N1C3,N/C double vacancy,double,4,1,0,3,ok,-2.9384,1.2122,stable,1.864,,-0.2979,,-0.3121,,,,,,False,False
+Ni@N2C2-HEX,Ni,N2C2-HEX,N/C double vacancy,double,4,2,0,2,ok,-2.8823,1.1841,stable,2.1769,,-0.305,,0.4169,,,,,,False,False
+Ni@N2C2-OPP,Ni,N2C2-OPP,N/C double vacancy,double,4,2,0,2,ok,-3.6345,1.5602,stable,2.0926,,-0.2502,,0.9847,-0.6315,,,,-0.6315,False,False
+Ni@N2C2-PEN,Ni,N2C2-PEN,N/C double vacancy,double,4,2,0,2,ok,-3.8866,1.6863,stable,2.107,,-0.3068,,0.8005,-0.6793,,,,-0.6793,False,False
+Ni@N3C1,Ni,N3C1,N/C double vacancy,double,4,3,0,1,ok,-3.1634,1.3247,stable,2.3913,,-0.3345,,0.4155,,,,,,False,False
+Ni@SV-C3,Ni,SV-C3,single vacancy,single,3,0,0,3,ok,-1.8826,0.6843,stable,1.4418,1.2293,-0.9473,-0.3716,0.0711,-0.8685,-1.2293,alternating,N2_end->NNH_end,-0.8685,False,False
+Ni@SV-N1C2,Ni,SV-N1C2,single vacancy,single,3,1,0,2,ok,-0.1946,-0.1597,uncertain,1.1076,0.8604,-1.0477,-0.3922,-0.001,-0.8872,-0.8604,alternating,N2_end->NNH_end,-0.8872,False,False
+Ni@SV-N2C1,Ni,SV-N2C1,single vacancy,single,3,2,0,1,ok,-0.3761,-0.069,uncertain,1.1947,1.162,-1.3402,-0.4809,-0.0825,-0.9084,-1.162,alternating,N2_end->NNH_end,-0.9084,False,False
+Ni@SV-N3,Ni,SV-N3,single vacancy,single,3,3,0,0,ok,0.0955,-0.3047,uncertain,1.3418,1.1851,-1.1138,-0.3877,0.2751,-0.8156,-1.1851,alternating,N2_end->NNH_end,-0.8156,False,False
+Os@C4,Os,C4,N/C double vacancy,double,4,0,0,4,ok,-0.5931,0.9121,uncertain,0.739,0.8339,-0.8738,-0.6984,-0.5547,-0.7457,-0.8339,distal,N2_end->NNH_end,-0.7457,False,False
+Os@N1C3,Os,N1C3,N/C double vacancy,double,4,1,0,3,ok,-1.112,0.977,stable,0.6321,0.8405,-1.2713,-0.8632,-0.6491,-0.7702,-0.8405,distal,N2_end->NNH_end,-0.7702,False,False
+Os@N2C2-HEX,Os,N2C2-HEX,N/C double vacancy,double,4,2,0,2,ok,-0.0581,0.8453,uncertain,0.5143,0.756,-1.6618,-0.9979,-0.8139,-0.8129,-0.756,distal,N2_end->NNH_end,-0.8129,False,False
+Os@N2C2-OPP,Os,N2C2-OPP,N/C double vacancy,double,4,2,0,2,ok,-1.3644,1.0085,stable,0.4824,0.7461,-1.0642,-0.8425,-0.5472,-0.7437,-0.7461,distal,N2_end->NNH_end,-0.7437,False,False
+Os@N2C2-PEN,Os,N2C2-PEN,N/C double vacancy,double,4,2,0,2,ok,-1.1822,0.9858,stable,0.5297,0.8133,-1.5968,-0.92,-0.5066,-0.7332,-0.8133,distal,N2_end->NNH_end,-0.7332,False,False
+Os@N3C1,Os,N3C1,N/C double vacancy,double,4,3,0,1,ok,-0.2901,0.8743,uncertain,0.5509,0.8307,-1.4596,-0.8619,-0.6712,-0.7759,-0.8307,distal,N2_end->NNH_end,-0.7759,False,False
+Os@SV-C3,Os,SV-C3,single vacancy,single,3,0,0,3,ok,-1.2824,0.9983,stable,1.1093,0.9036,-1.0628,-0.7072,-0.5496,-0.7444,-0.9036,distal,N2_end->NNH_end,-0.7444,False,False
+Os@SV-N1C2,Os,SV-N1C2,single vacancy,single,3,1,0,2,ok,0.8532,0.7314,unstable,1.1401,1.0679,-1.8462,-0.8956,-0.7001,-0.7834,-1.0679,distal,N2_end->NNH_end,-0.7834,False,False
+Os@SV-N2C1,Os,SV-N2C1,single vacancy,single,3,2,0,1,ok,1.2053,0.6873,unstable,1.0458,0.826,-1.9763,-0.9093,-0.7198,-0.7885,-0.826,distal,N2_end->NNH_end,-0.7885,False,False
+Os@SV-N3,Os,SV-N3,single vacancy,single,3,3,0,0,ok,2.5372,0.5208,unstable,0.3474,0.6793,-1.3241,-0.9378,-0.6823,-0.7788,-0.6967,distal,NH2->NH3,-0.7788,False,False
+Pd@C4,Pd,C4,N/C double vacancy,double,4,0,0,4,ok,-0.7747,1.3383,stable,1.7063,,-0.2209,,0.5657,-0.5833,,,,-0.5833,False,False
+Pd@N1C3,Pd,N1C3,N/C double vacancy,double,4,1,0,3,ok,-1.9754,1.9387,stable,1.9211,,-0.2707,,-0.0109,,,,,,False,False
+Pd@N2C2-HEX,Pd,N2C2-HEX,N/C double vacancy,double,4,2,0,2,ok,-1.9617,1.9318,stable,2.2787,,-0.2629,,0.3269,,,,,,False,False
+Pd@N2C2-OPP,Pd,N2C2-OPP,N/C double vacancy,double,4,2,0,2,ok,-2.7275,2.3147,stable,2.1739,,-0.2037,,1.1045,-0.4435,,,,-0.4435,False,False
+Pd@N2C2-PEN,Pd,N2C2-PEN,N/C double vacancy,double,4,2,0,2,ok,-3.0118,2.4569,stable,2.1585,,-0.2673,,0.1275,,,,,,False,False
+Pd@N3C1,Pd,N3C1,N/C double vacancy,double,4,3,0,1,ok,-2.3495,2.1258,stable,2.5057,,-0.2641,,0.3838,,,,,,False,False
+Pd@SV-C3,Pd,SV-C3,single vacancy,single,3,0,0,3,ok,-1.5663,1.7341,stable,1.671,1.2993,-0.6208,-0.1139,0.1278,-0.6969,-1.2993,alternating,N2_end->NNH_end,-0.6969,False,False
+Pd@SV-N1C2,Pd,SV-N1C2,single vacancy,single,3,1,0,2,ok,0.3126,0.7947,uncertain,1.7677,1.2955,-0.9919,-0.3504,-0.0931,-0.7543,-1.2955,distal,N2_end->NNH_end,-0.7543,False,False
+Pd@SV-N2C1,Pd,SV-N2C1,single vacancy,single,3,2,0,1,ok,0.3086,0.7967,uncertain,1.3663,1.2384,-1.1489,-0.2815,-0.2767,-0.8019,-1.2384,alternating,N2_end->NNH_end,-0.8019,False,False
+Pd@SV-N3,Pd,SV-N3,single vacancy,single,3,3,0,0,ok,1.4097,0.2461,unstable,1.2433,1.2113,-1.4059,-0.3941,-0.3675,-0.8255,-1.2113,alternating,N2_end->NNH_end,-0.8255,False,False
+Pt@C4,Pt,C4,N/C double vacancy,double,4,0,0,4,ok,-1.4144,1.8872,stable,1.4835,,-0.2008,,0.1239,-0.7303,,,,-0.7303,False,False
+Pt@N1C3,Pt,N1C3,N/C double vacancy,double,4,1,0,3,ok,-2.609,2.4845,stable,1.9012,,-0.2683,,-0.1509,,,,,,False,False
+Pt@N2C2-HEX,Pt,N2C2-HEX,N/C double vacancy,double,4,2,0,2,ok,-2.3876,2.3738,stable,2.2212,,-0.257,,0.6985,-0.5812,,,,-0.5812,False,False
+Pt@N2C2-OPP,Pt,N2C2-OPP,N/C double vacancy,double,4,2,0,2,ok,-3.1797,2.7698,stable,2.1163,,-0.2029,,0.7187,-0.576,,,,-0.576,False,False
+Pt@N2C2-PEN,Pt,N2C2-PEN,N/C double vacancy,double,4,2,0,2,ok,-3.4613,2.9107,stable,2.1022,,-0.2692,,0.6183,-0.6021,,,,-0.6021,False,False
+Pt@N3C1,Pt,N3C1,N/C double vacancy,double,4,3,0,1,ok,-2.6025,2.4812,stable,2.4887,,-0.2691,,0.5681,,,,,,False,False
+Pt@SV-C3,Pt,SV-C3,single vacancy,single,3,0,0,3,ok,-1.6401,2.0001,stable,1.2458,1.1914,-0.6975,-0.563,-0.4526,-0.8799,-1.1914,distal,N2_end->NNH_end,-0.8799,False,False
+Pt@SV-N1C2,Pt,SV-N1C2,single vacancy,single,3,1,0,2,ok,0.523,0.9185,uncertain,1.2473,1.2037,-1.2964,-0.6098,-0.8196,-0.9751,-1.2037,distal,N2_end->NNH_end,-0.9751,False,False
+Pt@SV-N2C1,Pt,SV-N2C1,single vacancy,single,3,2,0,1,ok,0.9094,0.7253,unstable,1.1082,0.927,-1.7811,-0.8222,-1.1302,-1.0557,-0.927,distal,N2_end->NNH_end,-1.0557,False,False
+Pt@SV-N3,Pt,SV-N3,single vacancy,single,3,3,0,0,ok,2.2269,0.0666,unstable,0.7358,0.844,-1.9246,-0.8556,-0.866,-0.9872,-0.844,distal,N2_end->NNH_end,-0.9872,False,False
+Re@C4,Re,C4,N/C double vacancy,double,4,0,0,4,ok,-0.3062,0.4021,uncertain,0.771,0.5006,-1.1501,-0.9045,-0.7701,-0.8003,-0.5006,distal,N2_end->NNH_end,-0.8003,False,False
+Re@N1C3,Re,N1C3,N/C double vacancy,double,4,1,0,3,ok,-0.9105,0.6035,stable,0.6453,0.5006,-1.4766,-1.0385,-0.8384,-0.818,-0.5416,distal,NH2->NH3,-0.818,False,False
+Re@N2C2-HEX,Re,N2C2-HEX,N/C double vacancy,double,4,2,0,2,ok,0.0831,0.2723,uncertain,0.3791,0.3231,-1.7715,-1.0981,-0.935,-0.8431,-0.6229,distal,NH2->NH3,-0.8431,False,False
+Re@N2C2-OPP,Re,N2C2-OPP,N/C double vacancy,double,4,2,0,2,ok,-1.1464,0.6821,stable,0.3898,0.332,-1.3793,-1.1344,-0.7521,-0.7956,-0.7873,distal,NH2->NH3,-0.7956,False,True
+Re@N2C2-PEN,Re,N2C2-PEN,N/C double vacancy,double,4,2,0,2,ok,-1.0286,0.6429,stable,0.4404,0.3465,-1.7103,-1.1547,-0.9319,-0.8423,-0.6874,distal,NH2->NH3,-0.8423,False,True
+Re@N3C1,Re,N3C1,N/C double vacancy,double,4,3,0,1,ok,-0.0296,0.3099,uncertain,0.2413,0.3231,-1.7405,-1.0981,-0.8247,-0.8145,-0.6524,distal,NH2->NH3,-0.8145,False,False
+Re@SV-C3,Re,SV-C3,single vacancy,single,3,0,0,3,ok,-0.7515,0.5505,stable,1.0942,0.5503,-1.327,-0.9821,-0.5804,-0.7511,-0.5503,alternating,N2_end->NNH_end,-0.7511,False,False
+Re@SV-N1C2,Re,SV-N1C2,single vacancy,single,3,1,0,2,ok,1.2606,-0.1202,unstable,0.7718,0.4892,-1.8887,-1.1385,-0.8081,-0.8102,-0.4892,distal,N2_end->NNH_end,-0.8102,False,False
+Re@SV-N2C1,Re,SV-N2C1,single vacancy,single,3,2,0,1,ok,1.4891,-0.1964,unstable,0.6277,0.4766,-2.0155,-1.0969,-0.9286,-0.8414,-0.575,distal,NH2->NH3,-0.8414,False,False
+Re@SV-N3,Re,SV-N3,single vacancy,single,3,3,0,0,ok,2.6993,-0.5998,unstable,0.1358,0.307,-1.6407,-1.1134,-0.984,-0.8558,-0.9151,distal,NH2->NH3,-0.8558,False,False
+Rh@C4,Rh,C4,N/C double vacancy,double,4,0,0,4,ok,-1.1498,1.1413,stable,1.1788,1.1575,-0.3803,-0.5524,0.1982,-0.5891,-1.1575,distal,N2_end->NNH_end,-0.5891,False,False
+Rh@N1C3,Rh,N1C3,N/C double vacancy,double,4,1,0,3,ok,-2.0039,1.426,stable,1.3153,1.2091,-0.6519,-0.5004,0.0635,-0.624,-1.2091,distal,N2_end->NNH_end,-0.624,False,False
+Rh@N2C2-HEX,Rh,N2C2-HEX,N/C double vacancy,double,4,2,0,2,ok,-1.3247,1.1996,stable,1.4051,1.202,-0.7392,-0.5024,-0.4463,-0.7563,-1.202,distal,N2_end->NNH_end,-0.7563,False,False
+Rh@N2C2-OPP,Rh,N2C2-OPP,N/C double vacancy,double,4,2,0,2,ok,-2.5367,1.6036,stable,1.1785,1.0292,-0.2674,-0.6106,0.0758,-0.6209,-1.0292,distal,N2_end->NNH_end,-0.6209,False,False
+Rh@N2C2-PEN,Rh,N2C2-PEN,N/C double vacancy,double,4,2,0,2,ok,-2.448,1.574,stable,1.3086,1.1971,-0.7339,-0.4956,-0.4123,-0.7475,-1.1971,distal,N2_end->NNH_end,-0.7475,False,False
+Rh@N3C1,Rh,N3C1,N/C double vacancy,double,4,3,0,1,ok,-2.0344,1.4361,stable,1.0969,0.7962,-0.1177,-0.4997,-0.0724,-0.6593,-0.7962,distal,N2_end->NNH_end,-0.6593,False,False
+Rh@SV-C3,Rh,SV-C3,single vacancy,single,3,0,0,3,ok,-2.465,1.5797,stable,1.7016,1.2581,-0.6457,-0.3459,0.24,-0.5783,-1.2581,distal,N2_end->NNH_end,-0.5783,False,False
+Rh@SV-N1C2,Rh,SV-N1C2,single vacancy,single,3,1,0,2,ok,-0.3579,0.8773,uncertain,1.4668,1.2287,-1.2558,-0.5881,-0.1762,-0.6863,-1.2287,distal,N2_end->NNH_end,-0.6863,False,False
+Rh@SV-N2C1,Rh,SV-N2C1,single vacancy,single,3,2,0,1,ok,-0.0467,0.7736,uncertain,1.3726,1.2077,-1.3982,-0.5875,-0.3197,-0.7235,-1.2077,distal,N2_end->NNH_end,-0.7235,False,False
+Rh@SV-N3,Rh,SV-N3,single vacancy,single,3,3,0,0,ok,1.307,0.3223,unstable,1.179,1.162,-1.6066,-0.7078,-0.0971,-0.6657,-1.162,distal,N2_end->NNH_end,-0.6657,False,False
+Ru@C4,Ru,C4,N/C double vacancy,double,4,0,0,4,ok,-0.9778,0.9439,stable,1.0466,0.726,-0.6103,-0.6369,-0.1132,-0.5988,-0.726,distal,N2_end->NNH_end,-0.5988,False,False
+Ru@N1C3,Ru,N1C3,N/C double vacancy,double,4,1,0,3,ok,-1.5701,1.2401,stable,0.914,0.7757,-1.0586,-0.5714,-0.2435,-0.6326,-0.7757,distal,N2_end->NNH_end,-0.6326,False,False
+Ru@N2C2-HEX,Ru,N2C2-HEX,N/C double vacancy,double,4,2,0,2,ok,-0.3038,0.6069,uncertain,0.7846,0.7919,-1.7937,-0.9287,-0.5564,-0.7138,-0.7919,distal,N2_end->NNH_end,-0.7138,False,False
+Ru@N2C2-OPP,Ru,N2C2-OPP,N/C double vacancy,double,4,2,0,2,ok,-1.952,1.431,stable,0.7954,0.7746,-0.822,-0.5565,-0.1719,-0.614,-0.7746,distal,N2_end->NNH_end,-0.614,False,False
+Ru@N2C2-PEN,Ru,N2C2-PEN,N/C double vacancy,double,4,2,0,2,ok,-1.4836,1.1968,stable,0.8263,0.7919,-1.6726,-0.8882,-0.4955,-0.698,-0.7919,distal,N2_end->NNH_end,-0.698,False,False
+Ru@N3C1,Ru,N3C1,N/C double vacancy,double,4,3,0,1,ok,-0.9237,0.9168,stable,0.8881,0.7877,-1.3194,-0.619,-0.5252,-0.7057,-0.7877,distal,N2_end->NNH_end,-0.7057,False,False
+Ru@SV-C3,Ru,SV-C3,single vacancy,single,3,0,0,3,ok,-2.042,1.476,stable,1.5118,1.209,-0.8306,-0.57,0.0567,-0.5547,-1.209,distal,N2_end->NNH_end,-0.5547,False,False
+Ru@SV-N1C2,Ru,SV-N1C2,single vacancy,single,3,1,0,2,ok,-0.082,0.496,uncertain,1.4536,1.1971,-1.5125,-0.599,-0.0824,-0.5908,-1.1971,distal,N2_end->NNH_end,-0.5908,False,False
+Ru@SV-N2C1,Ru,SV-N2C1,single vacancy,single,3,2,0,1,ok,0.0953,0.4073,uncertain,1.394,1.1888,-1.6159,-0.7264,-0.0875,-0.5921,-1.1888,distal,N2_end->NNH_end,-0.5921,False,False
+Ru@SV-N3,Ru,SV-N3,single vacancy,single,3,3,0,0,ok,1.2726,-0.1813,unstable,1.3141,1.188,-1.6712,-0.7489,-0.0448,-0.581,-1.188,distal,N2_end->NNH_end,-0.581,False,False
+Sc@C4,Sc,C4,N/C double vacancy,double,4,0,0,4,ok,-1.5841,-1.549,unstable,1.8156,1.2123,-0.6094,-0.2097,1.0757,-0.1067,-1.2123,alternating,N2_end->NNH_end,-0.1067,False,False
+Sc@N1C3,Sc,N1C3,N/C double vacancy,double,4,1,0,3,ok,-3.1357,-1.0318,unstable,1.8122,1.2236,-0.5912,-0.1884,1.0626,-0.1101,-1.2236,alternating,N2_end->NNH_end,-0.1101,False,False
+Sc@N2C2-HEX,Sc,N2C2-HEX,N/C double vacancy,double,4,2,0,2,ok,-3.1025,-1.0428,unstable,1.6985,1.2123,-0.6491,-0.2243,0.805,-0.177,-1.2123,alternating,N2_end->NNH_end,-0.177,False,False
+Sc@N2C2-OPP,Sc,N2C2-OPP,N/C double vacancy,double,4,2,0,2,ok,-4.2614,-0.6565,unstable,1.7424,1.2123,-0.6387,-0.2243,0.9043,-0.1512,-1.2123,alternating,N2_end->NNH_end,-0.1512,False,False
+Sc@N2C2-PEN,Sc,N2C2-PEN,N/C double vacancy,double,4,2,0,2,ok,-4.2063,-0.6749,unstable,1.7741,1.2123,-0.6471,-0.2243,0.9569,-0.1375,-1.2123,alternating,N2_end->NNH_end,-0.1375,False,False
+Sc@N3C1,Sc,N3C1,N/C double vacancy,double,4,3,0,1,ok,-3.9553,-0.7586,unstable,1.5792,1.2066,-0.7122,-0.3575,0.5145,-0.2523,-1.2066,alternating,N2_end->NNH_end,-0.2523,False,False
+Sc@SV-C3,Sc,SV-C3,single vacancy,single,3,0,0,3,ok,-2.6108,-1.2067,unstable,1.7632,1.2123,-0.6375,-0.2243,0.8993,-0.1525,-1.2123,alternating,N2_end->NNH_end,-0.1525,False,False
+Sc@SV-N1C2,Sc,SV-N1C2,single vacancy,single,3,1,0,2,ok,-1.6377,-1.5311,unstable,1.6139,1.2066,-0.6776,-0.38,0.6666,-0.2129,-1.2066,alternating,N2_end->NNH_end,-0.2129,False,False
+Sc@SV-N2C1,Sc,SV-N2C1,single vacancy,single,3,2,0,1,ok,-2.3914,-1.2799,unstable,1.4868,1.1897,-0.7566,-0.4076,0.3226,-0.3021,-1.1897,alternating,N2_end->NNH_end,-0.3021,False,False
+Sc@SV-N3,Sc,SV-N3,single vacancy,single,3,3,0,0,ok,-2.0987,-1.3774,unstable,1.2775,1.1514,-0.8438,-0.384,-0.0919,-0.4097,-1.1514,alternating,N2_end->NNH_end,-0.4097,False,False
+Ta@C4,Ta,C4,N/C double vacancy,double,4,0,0,4,ok,-1.0558,-0.2481,unstable,1.0546,0.4255,-1.0018,-0.9125,-0.4433,-0.6495,-0.4255,alternating,N2_end->NNH_end,-0.6495,False,False
+Ta@N1C3,Ta,N1C3,N/C double vacancy,double,4,1,0,3,ok,-1.9472,0.0491,uncertain,0.8496,0.4413,-1.1244,-0.9042,-0.6854,-0.7123,-0.4813,alternating,NHNH2->NH2NH2,-0.7123,False,False
+Ta@N2C2-HEX,Ta,N2C2-HEX,N/C double vacancy,double,4,2,0,2,ok,-1.2218,-0.1927,uncertain,0.708,0.4413,-1.3816,-1.0285,-0.859,-0.7573,-0.713,alternating,NHNH2->NH2NH2,-0.7573,False,False
+Ta@N2C2-OPP,Ta,N2C2-OPP,N/C double vacancy,double,4,2,0,2,ok,-2.4035,0.2012,uncertain,0.608,0.4287,-1.2277,-1.0144,-0.8164,-0.7463,-0.8333,alternating,NHNH2->NH2NH2,-0.7463,False,False
+Ta@N2C2-PEN,Ta,N2C2-PEN,N/C double vacancy,double,4,2,0,2,ok,-2.3558,0.1853,uncertain,0.7047,0.4413,-1.366,-1.0396,-0.887,-0.7646,-0.7024,alternating,NHNH2->NH2NH2,-0.7646,False,False
+Ta@N3C1,Ta,N3C1,N/C double vacancy,double,4,3,0,1,ok,-1.522,-0.0927,uncertain,0.4649,0.3521,-1.3953,-1.0361,-0.9198,-0.7731,-0.9617,distal,NH2->NH3,-0.7731,False,False
+Ta@SV-C3,Ta,SV-C3,single vacancy,single,3,0,0,3,ok,-1.1596,-0.2135,uncertain,1.2697,0.7067,-1.1284,-0.8731,-0.1577,-0.5754,-0.7067,alternating,N2_end->NNH_end,-0.5754,False,False
+Ta@SV-N1C2,Ta,SV-N1C2,single vacancy,single,3,1,0,2,ok,0.505,-0.7683,unstable,0.8025,0.4413,-1.2994,-1.0358,-0.4566,-0.6529,-0.4413,alternating,N2_end->NNH_end,-0.6529,False,False
+Ta@SV-N2C1,Ta,SV-N2C1,single vacancy,single,3,2,0,1,ok,0.3982,-0.7327,unstable,0.6185,0.4287,-1.4112,-1.0465,-0.6547,-0.7043,-0.6434,alternating,NHNH2->NH2NH2,-0.7043,False,False
+Ta@SV-N3,Ta,SV-N3,single vacancy,single,3,3,0,0,ok,1.2541,-1.018,unstable,0.4521,0.3058,-1.4767,-1.0843,-0.794,-0.7405,-0.8519,distal,NH2->NH3,-0.7405,False,False
+Ti@C4,Ti,C4,N/C double vacancy,double,4,0,0,4,ok,-1.8075,-0.7263,unstable,1.5912,1.1842,-0.7991,-0.5896,0.5947,-0.2709,-1.1842,alternating,N2_end->NNH_end,-0.2709,False,False
+Ti@N1C3,Ti,N1C3,N/C double vacancy,double,4,1,0,3,ok,-3.0079,-0.126,uncertain,1.4379,1.1435,-0.8565,-0.5421,0.2921,-0.3494,-1.1435,alternating,N2_end->NNH_end,-0.3494,False,False
+Ti@N2C2-HEX,Ti,N2C2-HEX,N/C double vacancy,double,4,2,0,2,ok,-2.6102,-0.3249,uncertain,1.1942,1.0836,-0.9419,-0.6058,-0.0116,-0.4282,-1.0836,alternating,N2_end->NNH_end,-0.4282,False,False
+Ti@N2C2-OPP,Ti,N2C2-OPP,N/C double vacancy,double,4,2,0,2,ok,-3.7474,0.2437,uncertain,1.1699,0.9956,-0.8972,-0.5787,-0.0323,-0.4336,-0.9956,alternating,N2_end->NNH_end,-0.4336,False,False
+Ti@N2C2-PEN,Ti,N2C2-PEN,N/C double vacancy,double,4,2,0,2,ok,-3.7117,0.2258,uncertain,1.221,1.0805,-0.9766,-0.6284,-0.0227,-0.4311,-1.0805,alternating,N2_end->NNH_end,-0.4311,False,False
+Ti@N3C1,Ti,N3C1,N/C double vacancy,double,4,3,0,1,ok,-3.1734,-0.0433,uncertain,0.9755,0.7152,-0.9789,-0.6323,-0.2265,-0.484,-0.7152,alternating,N2_end->NNH_end,-0.484,False,False
+Ti@SV-C3,Ti,SV-C3,single vacancy,single,3,0,0,3,ok,-2.5252,-0.3674,unstable,1.6324,1.1685,-0.9087,-0.556,0.5616,-0.2795,-1.1685,alternating,N2_end->NNH_end,-0.2795,False,False
+Ti@SV-N1C2,Ti,SV-N1C2,single vacancy,single,3,1,0,2,ok,-1.2052,-1.0274,unstable,1.3927,1.1214,-0.974,-0.6587,0.2234,-0.3672,-1.1214,alternating,N2_end->NNH_end,-0.3672,False,False
+Ti@SV-N2C1,Ti,SV-N2C1,single vacancy,single,3,2,0,1,ok,-1.6747,-0.7927,unstable,1.1911,1.0739,-1.0101,-0.607,-0.0259,-0.4319,-1.0739,alternating,N2_end->NNH_end,-0.4319,False,False
+Ti@SV-N3,Ti,SV-N3,single vacancy,single,3,3,0,0,ok,-1.1987,-1.0307,unstable,1.0083,0.7086,-0.9985,-0.6187,-0.1013,-0.4515,-0.7086,alternating,N2_end->NNH_end,-0.4515,False,False
+V@C4,V,C4,N/C double vacancy,double,4,0,0,4,ok,-1.0559,-0.6021,unstable,1.208,1.0811,-0.9966,-0.608,0.0107,-0.4904,-1.0811,distal,N2_end->NNH_end,-0.4904,False,False
+V@N1C3,V,N1C3,N/C double vacancy,double,4,1,0,3,ok,-2.2432,-0.0084,uncertain,1.0813,0.7724,-0.9641,-0.6493,-0.0888,-0.5162,-0.7724,distal,N2_end->NNH_end,-0.5162,False,False
+V@N2C2-HEX,V,N2C2-HEX,N/C double vacancy,double,4,2,0,2,ok,-1.8728,-0.1936,uncertain,0.984,0.7158,-1.0019,-0.6197,-0.0544,-0.5073,-0.7158,distal,N2_end->NNH_end,-0.5073,False,False
+V@N2C2-OPP,V,N2C2-OPP,N/C double vacancy,double,4,2,0,2,ok,-3.0288,0.3844,stable,0.9313,0.7413,-0.8999,-0.6167,0.0047,-0.4919,-0.7413,distal,N2_end->NNH_end,-0.4919,False,False
+V@N2C2-PEN,V,N2C2-PEN,N/C double vacancy,double,4,2,0,2,ok,-2.9726,0.3563,stable,0.9253,0.7413,-0.9488,-0.6493,-0.1479,-0.5315,-0.7413,distal,N2_end->NNH_end,-0.5315,False,False
+V@N3C1,V,N3C1,N/C double vacancy,double,4,3,0,1,ok,-2.5444,0.1422,uncertain,0.8544,0.7413,-0.9277,-0.6305,0.0472,-0.4809,-0.7413,distal,N2_end->NNH_end,-0.4809,False,False
+V@SV-C3,V,SV-C3,single vacancy,single,3,0,0,3,ok,-1.51,-0.375,unstable,1.4581,1.1331,-1.6422,-0.7379,-0.0903,-0.5166,-1.1331,alternating,N2_end->NNH_end,-0.5166,False,False
+V@SV-N1C2,V,SV-N1C2,single vacancy,single,3,1,0,2,ok,-0.1857,-1.0371,unstable,1.2327,1.0732,-1.592,-0.6921,-0.2732,-0.564,-1.0732,distal,N2_end->NNH_end,-0.564,False,False
+V@SV-N2C1,V,SV-N2C1,single vacancy,single,3,2,0,1,ok,-0.6633,-0.7983,unstable,1.054,0.7158,-1.5432,-0.751,-0.3774,-0.5911,-0.7158,distal,N2_end->NNH_end,-0.5911,False,False
+V@SV-N3,V,SV-N3,single vacancy,single,3,3,0,0,ok,-0.202,-1.029,unstable,0.9177,0.7316,-1.4814,-0.7527,-0.4512,-0.6102,-0.7316,distal,N2_end->NNH_end,-0.6102,False,False
+W@C4,W,C4,N/C double vacancy,double,4,0,0,4,ok,0.2553,-0.1838,unstable,0.7519,0.4387,-1.4837,-1.0874,-1.0256,-0.8336,-0.4502,alternating,NHNH2->NH2NH2,-0.8336,False,False
+W@N1C3,W,N1C3,N/C double vacancy,double,4,1,0,3,ok,-0.7132,0.0583,uncertain,0.6743,0.4387,-1.3489,-1.0549,-0.9821,-0.8223,-0.6095,distal,NH2->NH3,-0.8223,False,False
+W@N2C2-HEX,W,N2C2-HEX,N/C double vacancy,double,4,2,0,2,ok,0.1621,-0.1605,uncertain,0.4452,0.3011,-1.7564,-1.1072,-1.1588,-0.8681,-0.7838,distal,NH2->NH3,-0.8681,False,False
+W@N2C2-OPP,W,N2C2-OPP,N/C double vacancy,double,4,2,0,2,ok,-1.0691,0.1473,uncertain,0.4402,0.3033,-1.497,-1.1627,-0.9853,-0.8231,-0.8834,distal,NH2->NH3,-0.8231,False,False
+W@N2C2-PEN,W,N2C2-PEN,N/C double vacancy,double,4,2,0,2,ok,-1.1445,0.1661,uncertain,0.3095,0.2933,-1.2946,-1.1623,-0.9458,-0.8129,-1.1397,distal,NH2->NH3,-0.8129,False,False
+W@N3C1,W,N3C1,N/C double vacancy,double,4,3,0,1,ok,-0.1537,-0.0816,uncertain,0.3189,0.2803,-1.6488,-1.1479,-1.0092,-0.8293,-1.0127,distal,NH2->NH3,-0.8293,False,False
+W@SV-C3,W,SV-C3,single vacancy,single,3,0,0,3,ok,0.7758,-0.314,unstable,1.0703,0.4548,-2.4914,-1.1027,-1.3642,-0.9214,-0.4548,alternating,N2_end->NNH_end,-0.9214,False,False
+W@SV-N1C2,W,SV-N1C2,single vacancy,single,3,1,0,2,ok,2.3522,-0.7081,unstable,0.5819,0.4181,-2.5126,-1.0851,-1.4733,-0.9497,-0.4709,alternating,NH2->NH3,-0.9497,False,False
+W@SV-N2C1,W,SV-N2C1,single vacancy,single,3,2,0,1,ok,2.2409,-0.6802,unstable,0.512,0.3272,-2.5435,-1.0851,-1.5553,-0.971,-0.6676,distal,NH2->NH3,-0.971,False,False
+W@SV-N3,W,SV-N3,single vacancy,single,3,3,0,0,ok,3.0468,-0.8817,unstable,0.3011,0.2588,-2.2361,-1.0851,-1.4842,-0.9526,-0.9491,distal,NH2->NH3,-0.9526,False,False
+Y@C4,Y,C4,N/C double vacancy,double,4,0,0,4,ok,-1.3507,-1.9218,unstable,1.7822,,-0.5635,,0.9901,-0.1734,,,,-0.1734,False,False
+Y@N1C3,Y,N1C3,N/C double vacancy,double,4,1,0,3,ok,-2.8823,-1.4112,unstable,1.5064,,-0.5425,,1.0152,-0.1669,,,,-0.1669,False,False
+Y@N2C2-HEX,Y,N2C2-HEX,N/C double vacancy,double,4,2,0,2,ok,-2.8896,-1.4088,unstable,1.7077,,-0.579,,0.8122,-0.2196,,,,-0.2196,False,False
+Y@N2C2-OPP,Y,N2C2-OPP,N/C double vacancy,double,4,2,0,2,ok,-4.0476,-1.0228,unstable,1.767,,-0.5326,,0.9967,-0.1717,,,,-0.1717,False,False
+Y@N2C2-PEN,Y,N2C2-PEN,N/C double vacancy,double,4,2,0,2,ok,-3.9858,-1.0434,unstable,1.7557,,-0.5719,,1.003,-0.17,,,,-0.17,False,False
+Y@N3C1,Y,N3C1,N/C double vacancy,double,4,3,0,1,ok,-3.8027,-1.1044,unstable,1.2634,,-0.6137,,0.6343,-0.2657,,,,-0.2657,False,False
+Y@SV-C3,Y,SV-C3,single vacancy,single,3,0,0,3,ok,-2.3208,-1.5984,unstable,1.7985,,-0.5842,,0.8992,-0.197,,,,-0.197,False,False
+Y@SV-N1C2,Y,SV-N1C2,single vacancy,single,3,1,0,2,ok,-1.3653,-1.9169,unstable,1.6585,,-0.6411,,0.6602,-0.259,,,,-0.259,False,False
+Y@SV-N2C1,Y,SV-N2C1,single vacancy,single,3,2,0,1,ok,-2.1525,-1.6545,unstable,1.5197,1.1965,-0.7159,-0.2602,0.345,-0.3408,-1.1965,alternating,N2_end->NNH_end,-0.3408,False,False
+Y@SV-N3,Y,SV-N3,single vacancy,single,3,3,0,0,ok,-1.9096,-1.7355,unstable,1.3278,1.153,-0.7703,-0.2777,-0.0173,-0.4348,-1.153,alternating,N2_end->NNH_end,-0.4348,False,False
+Zn@C4,Zn,C4,N/C double vacancy,double,4,0,0,4,ok,-0.847,-0.3385,uncertain,-0.087,,-0.2724,,1.542,-0.7626,,,,-0.7626,False,False
+Zn@N1C3,Zn,N1C3,N/C double vacancy,double,4,1,0,3,ok,-1.8502,0.1631,uncertain,2.2897,,-0.2952,,1.2931,-0.8272,,,,-0.8272,False,False
+Zn@N2C2-HEX,Zn,N2C2-HEX,N/C double vacancy,double,4,2,0,2,ok,-1.5528,0.0144,uncertain,2.2364,,-0.3162,,1.0326,-0.8947,,,,-0.8947,False,False
+Zn@N2C2-OPP,Zn,N2C2-OPP,N/C double vacancy,double,4,2,0,2,ok,-2.5101,0.493,stable,2.1696,,-0.2243,,1.2087,-0.8491,,,,-0.8491,False,False
+Zn@N2C2-PEN,Zn,N2C2-PEN,N/C double vacancy,double,4,2,0,2,ok,-2.5079,0.492,stable,2.226,,-0.3071,,1.2045,-0.8501,,,,-0.8501,False,False
+Zn@N3C1,Zn,N3C1,N/C double vacancy,double,4,3,0,1,ok,-2.2118,0.3439,uncertain,2.14,,-0.2841,,0.9851,-0.9071,,,,-0.9071,False,False
+Zn@SV-C3,Zn,SV-C3,single vacancy,single,3,0,0,3,ok,-0.766,-0.379,unstable,1.8493,1.2816,-0.678,-0.0705,0.008,-1.1606,-1.2816,alternating,N2_end->NNH_end,-1.1606,False,False
+Zn@SV-N1C2,Zn,SV-N1C2,single vacancy,single,3,1,0,2,ok,0.1784,-0.8512,unstable,1.7132,1.2936,-0.6174,0.123,-0.1361,-1.198,-1.2936,alternating,N2_end->NNH_end,-1.198,False,False
+Zn@SV-N2C1,Zn,SV-N2C1,single vacancy,single,3,2,0,1,ok,-0.68,-0.422,unstable,1.6922,1.2936,-0.6126,0.123,-0.1705,-1.2069,-1.2936,alternating,N2_end->NNH_end,-1.2069,False,False
+Zn@SV-N3,Zn,SV-N3,single vacancy,single,3,3,0,0,ok,-0.4992,-0.5124,unstable,1.4796,1.3321,-0.5097,0.206,-0.6043,-1.3195,-1.3321,alternating,N2_end->NNH_end,-1.3195,False,False
+Zr@C4,Zr,C4,N/C double vacancy,double,4,0,0,4,ok,-1.7482,-1.013,unstable,1.5537,1.2036,-0.6564,-0.3753,0.5576,-0.3472,-1.2036,alternating,N2_end->NNH_end,-0.3472,False,False
+Zr@N1C3,Zr,N1C3,N/C double vacancy,double,4,1,0,3,ok,-2.9565,-0.7109,unstable,1.4718,1.1889,-0.7222,-0.4667,0.2833,-0.4184,-1.1889,alternating,N2_end->NNH_end,-0.4184,False,False
+Zr@N2C2-HEX,Zr,N2C2-HEX,N/C double vacancy,double,4,2,0,2,ok,-2.4947,-0.8263,unstable,1.2349,1.1062,-0.8689,-0.5395,-0.0828,-0.5134,-1.1062,alternating,N2_end->NNH_end,-0.5134,False,False
+Zr@N2C2-OPP,Zr,N2C2-OPP,N/C double vacancy,double,4,2,0,2,ok,-3.66,-0.535,unstable,1.2009,1.1219,-0.7974,-0.5985,-0.0613,-0.5078,-1.1219,alternating,N2_end->NNH_end,-0.5078,False,False
+Zr@N2C2-PEN,Zr,N2C2-PEN,N/C double vacancy,double,4,2,0,2,ok,-3.6219,-0.5445,unstable,1.2282,1.1062,-0.8657,-0.5684,-0.0477,-0.5043,-1.1062,alternating,N2_end->NNH_end,-0.5043,False,False
+Zr@N3C1,Zr,N3C1,N/C double vacancy,double,4,3,0,1,ok,-2.9827,-0.7043,unstable,0.9966,0.7409,-0.9418,-0.5594,-0.3616,-0.5857,-0.7409,alternating,N2_end->NNH_end,-0.5857,False,False
+Zr@SV-C3,Zr,SV-C3,single vacancy,single,3,0,0,3,ok,-2.1938,-0.9015,unstable,1.5865,1.2068,-0.7942,-0.541,0.5021,-0.3616,-1.2068,alternating,N2_end->NNH_end,-0.3616,False,False
+Zr@SV-N1C2,Zr,SV-N1C2,single vacancy,single,3,1,0,2,ok,-0.8008,-1.2498,unstable,1.3089,1.147,-0.9301,-0.5722,0.1124,-0.4627,-1.147,alternating,N2_end->NNH_end,-0.4627,False,False
+Zr@SV-N2C1,Zr,SV-N2C1,single vacancy,single,3,2,0,1,ok,-1.1898,-1.1525,unstable,1.0936,0.7867,-1.0074,-0.5524,-0.1548,-0.5321,-0.7867,alternating,N2_end->NNH_end,-0.5321,False,False
+Zr@SV-N3,Zr,SV-N3,single vacancy,single,3,3,0,0,ok,-0.6437,-1.2891,unstable,0.89,0.747,-1.0268,-0.5854,-0.2541,-0.5578,-0.747,alternating,N2_end->NNH_end,-0.5578,False,False

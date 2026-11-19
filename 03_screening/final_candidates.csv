@@ -1,0 +1,4 @@
+SAC,family,Ef_cal,U_diss_cal,step1_ml,dEN2_ml,UL_NRR,path,PDS,dGH_ml,UL_HER,selectivity_margin_V,verdict
+Re@N2C2-PEN,N/C double vacancy,-1.0286,0.6429,0.3465,-1.1547,-0.6874,distal,NH2->NH3,-0.8423,-0.8423,0.1549,possible (within error)
+Re@N2C2-OPP,N/C double vacancy,-1.1464,0.6821,0.332,-1.1344,-0.7873,distal,NH2->NH3,-0.7956,-0.7956,0.0083,possible (within error)
+Mo@N2C2-PEN,N/C double vacancy,-1.6396,0.3465,0.3702,-0.8665,-0.8378,distal,NH2->NH3,-0.5419,-0.5419,-0.2959,possible (within error)
