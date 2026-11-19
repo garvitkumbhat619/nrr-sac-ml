@@ -1,0 +1,73 @@
+target,features,scheme,model,n,MAE,R2,baseline_MAE
+Ef (eV),metal only,random 5-fold,KRR,459,1.2375,0.2174,1.3517
+Ef (eV),metal only,random 5-fold,RF,459,1.2689,0.2001,1.3517
+Ef (eV),metal only,random 5-fold,XGB,459,1.2688,0.2018,1.3517
+Ef (eV),metal only,leave-one-support-out,KRR,459,1.2808,0.1728,1.3517
+Ef (eV),metal only,leave-one-support-out,RF,459,1.2727,0.1944,1.3517
+Ef (eV),metal only,leave-one-support-out,XGB,459,1.2741,0.1923,1.3517
+Ef (eV),metal only,leave-one-family-out,KRR,459,1.7,-0.4093,1.3517
+Ef (eV),metal only,leave-one-family-out,RF,459,1.693,-0.41,1.3517
+Ef (eV),metal only,leave-one-family-out,XGB,459,1.6901,-0.4072,1.3517
+Ef (eV),metal + coordination,random 5-fold,KRR,459,0.3197,0.9252,1.3517
+Ef (eV),metal + coordination,random 5-fold,RF,459,0.4084,0.9008,1.3517
+Ef (eV),metal + coordination,random 5-fold,XGB,459,0.2913,0.9416,1.3517
+Ef (eV),metal + coordination,leave-one-support-out,KRR,459,1.398,0.0256,1.3517
+Ef (eV),metal + coordination,leave-one-support-out,RF,459,0.8083,0.6424,1.3517
+Ef (eV),metal + coordination,leave-one-support-out,XGB,459,0.7494,0.7026,1.3517
+Ef (eV),metal + coordination,leave-one-family-out,KRR,459,1.3471,0.0948,1.3517
+Ef (eV),metal + coordination,leave-one-family-out,RF,459,1.9506,-0.7591,1.3517
+Ef (eV),metal + coordination,leave-one-family-out,XGB,459,1.741,-0.4339,1.3517
+ΔG *N2→*NNH (eV),metal only,random 5-fold,KRR,337,0.2417,0.5105,0.3643
+ΔG *N2→*NNH (eV),metal only,random 5-fold,RF,337,0.2388,0.5065,0.3643
+ΔG *N2→*NNH (eV),metal only,random 5-fold,XGB,337,0.2385,0.5066,0.3643
+ΔG *N2→*NNH (eV),metal only,leave-one-support-out,KRR,337,0.2409,0.5096,0.3643
+ΔG *N2→*NNH (eV),metal only,leave-one-support-out,RF,337,0.2387,0.5104,0.3643
+ΔG *N2→*NNH (eV),metal only,leave-one-support-out,XGB,337,0.2404,0.5065,0.3643
+ΔG *N2→*NNH (eV),metal only,leave-one-family-out,KRR,337,0.2884,0.3777,0.3643
+ΔG *N2→*NNH (eV),metal only,leave-one-family-out,RF,337,0.2817,0.4033,0.3643
+ΔG *N2→*NNH (eV),metal only,leave-one-family-out,XGB,337,0.2802,0.4108,0.3643
+ΔG *N2→*NNH (eV),metal + coordination,random 5-fold,KRR,337,0.1792,0.5991,0.3643
+ΔG *N2→*NNH (eV),metal + coordination,random 5-fold,RF,337,0.1757,0.6344,0.3643
+ΔG *N2→*NNH (eV),metal + coordination,random 5-fold,XGB,337,0.1782,0.5236,0.3643
+ΔG *N2→*NNH (eV),metal + coordination,leave-one-support-out,KRR,337,0.1862,0.5982,0.3643
+ΔG *N2→*NNH (eV),metal + coordination,leave-one-support-out,RF,337,0.1946,0.5711,0.3643
+ΔG *N2→*NNH (eV),metal + coordination,leave-one-support-out,XGB,337,0.2029,0.4678,0.3643
+ΔG *N2→*NNH (eV),metal + coordination,leave-one-family-out,KRR,337,0.4316,-0.883,0.3643
+ΔG *N2→*NNH (eV),metal + coordination,leave-one-family-out,RF,337,0.2708,0.4428,0.3643
+ΔG *N2→*NNH (eV),metal + coordination,leave-one-family-out,XGB,337,0.2707,0.3824,0.3643
+U_L NRR (V),metal only,random 5-fold,KRR,331,0.22,0.4397,0.3085
+U_L NRR (V),metal only,random 5-fold,RF,331,0.2227,0.408,0.3085
+U_L NRR (V),metal only,random 5-fold,XGB,331,0.2231,0.4034,0.3085
+U_L NRR (V),metal only,leave-one-support-out,KRR,331,0.2148,0.469,0.3085
+U_L NRR (V),metal only,leave-one-support-out,RF,331,0.2128,0.4707,0.3085
+U_L NRR (V),metal only,leave-one-support-out,XGB,331,0.2136,0.4677,0.3085
+U_L NRR (V),metal only,leave-one-family-out,KRR,331,0.2485,0.3276,0.3085
+U_L NRR (V),metal only,leave-one-family-out,RF,331,0.2477,0.3282,0.3085
+U_L NRR (V),metal only,leave-one-family-out,XGB,331,0.2491,0.3261,0.3085
+U_L NRR (V),metal + coordination,random 5-fold,KRR,331,0.1995,0.3596,0.3085
+U_L NRR (V),metal + coordination,random 5-fold,RF,331,0.178,0.5577,0.3085
+U_L NRR (V),metal + coordination,random 5-fold,XGB,331,0.1811,0.4628,0.3085
+U_L NRR (V),metal + coordination,leave-one-support-out,KRR,331,0.1747,0.5457,0.3085
+U_L NRR (V),metal + coordination,leave-one-support-out,RF,331,0.1893,0.5199,0.3085
+U_L NRR (V),metal + coordination,leave-one-support-out,XGB,331,0.1894,0.4628,0.3085
+U_L NRR (V),metal + coordination,leave-one-family-out,KRR,331,0.4321,-1.6201,0.3085
+U_L NRR (V),metal + coordination,leave-one-family-out,RF,331,0.251,0.3158,0.3085
+U_L NRR (V),metal + coordination,leave-one-family-out,XGB,331,0.265,0.1736,0.3085
+ΔG *H (eV),metal only,random 5-fold,KRR,430,0.374,0.4608,0.5386
+ΔG *H (eV),metal only,random 5-fold,RF,430,0.381,0.4368,0.5386
+ΔG *H (eV),metal only,random 5-fold,XGB,430,0.3818,0.437,0.5386
+ΔG *H (eV),metal only,leave-one-support-out,KRR,430,0.3741,0.4599,0.5386
+ΔG *H (eV),metal only,leave-one-support-out,RF,430,0.377,0.451,0.5386
+ΔG *H (eV),metal only,leave-one-support-out,XGB,430,0.3769,0.4507,0.5386
+ΔG *H (eV),metal only,leave-one-family-out,KRR,430,0.5027,0.0221,0.5386
+ΔG *H (eV),metal only,leave-one-family-out,RF,430,0.5116,-0.0182,0.5386
+ΔG *H (eV),metal only,leave-one-family-out,XGB,430,0.5106,-0.0083,0.5386
+ΔG *H (eV),metal + coordination,random 5-fold,KRR,430,0.2644,0.7174,0.5386
+ΔG *H (eV),metal + coordination,random 5-fold,RF,430,0.2386,0.7638,0.5386
+ΔG *H (eV),metal + coordination,random 5-fold,XGB,430,0.2213,0.7705,0.5386
+ΔG *H (eV),metal + coordination,leave-one-support-out,KRR,430,0.2703,0.6811,0.5386
+ΔG *H (eV),metal + coordination,leave-one-support-out,RF,430,0.2236,0.7816,0.5386
+ΔG *H (eV),metal + coordination,leave-one-support-out,XGB,430,0.2314,0.7485,0.5386
+ΔG *H (eV),metal + coordination,leave-one-family-out,KRR,430,0.4768,0.1311,0.5386
+ΔG *H (eV),metal + coordination,leave-one-family-out,RF,430,0.4744,0.1306,0.5386
+ΔG *H (eV),metal + coordination,leave-one-family-out,XGB,430,0.4528,0.1842,0.5386

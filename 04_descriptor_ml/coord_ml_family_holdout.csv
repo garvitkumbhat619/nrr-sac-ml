@@ -1,0 +1,25 @@
+target,features,held_out,model,n,MAE,spearman
+Ef (eV),metal only,S/N (Xu),XGB,185,1.7386,0.634
+Ef (eV),metal only,N/C double vacancy,XGB,168,2.1226,0.5922
+Ef (eV),metal only,single vacancy,XGB,106,0.9202,0.686
+Ef (eV),metal + coordination,S/N (Xu),KRR,185,1.2472,0.4093
+Ef (eV),metal + coordination,N/C double vacancy,KRR,168,1.2679,0.4229
+Ef (eV),metal + coordination,single vacancy,KRR,106,1.6469,0.4589
+ΔG *N2→*NNH (eV),metal only,S/N (Xu),XGB,124,0.3548,0.6527
+ΔG *N2→*NNH (eV),metal only,single vacancy,XGB,104,0.262,0.7196
+ΔG *N2→*NNH (eV),metal only,N/C double vacancy,XGB,109,0.2126,0.6669
+ΔG *N2→*NNH (eV),metal + coordination,S/N (Xu),XGB,124,0.3329,0.6389
+ΔG *N2→*NNH (eV),metal + coordination,single vacancy,XGB,104,0.2221,0.7554
+ΔG *N2→*NNH (eV),metal + coordination,N/C double vacancy,XGB,109,0.2464,0.7846
+U_L NRR (V),metal only,S/N (Xu),RF,118,0.2954,0.6435
+U_L NRR (V),metal only,single vacancy,RF,104,0.2483,0.651
+U_L NRR (V),metal only,N/C double vacancy,RF,109,0.1955,0.6245
+U_L NRR (V),metal + coordination,S/N (Xu),RF,118,0.3114,0.5534
+U_L NRR (V),metal + coordination,single vacancy,RF,104,0.2162,0.7105
+U_L NRR (V),metal + coordination,N/C double vacancy,RF,109,0.2188,0.7285
+ΔG *H (eV),metal only,S/N (Xu),KRR,172,0.4869,0.5902
+ΔG *H (eV),metal only,N/C double vacancy,KRR,152,0.4425,0.6764
+ΔG *H (eV),metal only,single vacancy,KRR,106,0.6148,0.3892
+ΔG *H (eV),metal + coordination,S/N (Xu),XGB,172,0.4549,0.6605
+ΔG *H (eV),metal + coordination,N/C double vacancy,XGB,152,0.3654,0.8002
+ΔG *H (eV),metal + coordination,single vacancy,XGB,106,0.5746,0.473
